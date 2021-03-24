@@ -14,7 +14,7 @@ The leaderboard website displays scores submitted by different players. It also 
 ### How to build the Leaderboard website?
 
 
-In case of this project the priority is to create a working version that preserves user input. You will build a website according to the wireframe:
+In case of this application the priority is to create a working version that preserves user input. You will build a website according to the wireframe:
 
 <p align="center">
   <img src="./images/leaderboard_wireframe.png" alt="Wireframe" />
@@ -23,14 +23,14 @@ In case of this project the priority is to create a working version that preserv
 Then, you will connect to API (as described in its [documentation]((https://www.notion.so/microverse/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)))in order to implement the actions behind the "Refresh" and "Submit" buttons. In the last step, you will play with async & await and add as much styling as possible in a given time.
 
 
-**IMPORTANT NOTE** This is the first project in which you will use [Gitflow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/gitflow.md). Keep that in mind!
+**IMPORTANT NOTE** This is the first time you will use [Gitflow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/gitflow.md). Keep that in mind!
 
 
 
-### Project milestones
+### Projects list
 
-You will be building the Leaderboard website during the whole week. Here is the list of project milestones that will guide you through the steps described above. You will find details about each of the milestone requirements in the upcoming program activities.
+You will be building the Leaderboard website during the whole week. Here is the list of projects that will guide you through the steps described above. You will find details about each of the milestone requirements in the upcoming program activities.
 
-- Milestone 1: basic page structure.
-- Milestone 2: send and receive data from API.
-- Milestone 3: async & await + final touches.
+- Project 1: basic page structure.
+- Project 2: send and receive data from API.
+- Project 3: async & await + final touches.
