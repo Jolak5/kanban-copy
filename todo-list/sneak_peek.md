@@ -36,6 +36,6 @@ Go back to the [minimalist](http://www.getminimalist.com/) demo page to play aro
 
 You will be building a "To Do list" website during the whole week. Here is the list of projects that will guide you through the functionalities described above. You will find details about each of the milestone requirements in the upcoming program activities.
 
-- Milestone 1: list structure.
-- Milestone 2: interactive list.
-- Milestone 3: add and remove items.
+- Project 1: list structure.
+- Project 2: interactive list.
+- Project 3: add and remove items.
