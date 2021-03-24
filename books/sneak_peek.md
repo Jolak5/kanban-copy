@@ -8,7 +8,7 @@
 ## Description
 
 "Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list.
-In this project, you will learn how to manage data with the usage of JavaScript. Thanks to that, your website will be more interactive.
+By building this application, you will learn how to manage data with the usage of JavaScript. Thanks to that, your website will be more interactive.
 You will also use a medium-fidelity wireframe to build the UI.
 
 
@@ -20,13 +20,13 @@ They can help to communicate to teams how aesthetic features can support essenti
 
 ### How to build the "Awesome books" website?
 
-In this project, you will start by building the core functionalities and ignoring how your website looks. At the very beginning, your website will look similar to the UI below (note that it is plain HTML with no styling), but it will allow you to add and remove books from the list! Besides - you will build it by using JS objects and then rewrite your code to use JS classes.
+You will start by building the core functionalities and ignoring how your website looks. At the very beginning, your website will look similar to the UI below (note that it is plain HTML with no styling), but it will allow you to add and remove books from the list! Besides - you will build it by using JS objects and then rewrite your code to use JS classes.
 
 <p align="center">
   <img src="./images/awesome_books_basic_ui.png" alt="Basic UI" width="300px" />
 </p>
 
-Once you have the working code, you will style the core elements - books list and the form for adding a new book. You will need to keep the layout presented in the wireframe, but you will choose your project's styling. So, your initial ugly HTML will turn into something similar to:
+Once you have the working code, you will style the core elements - books list and the form for adding a new book. You will need to keep the layout presented in the wireframe, but you will choose your application's styling. So, your initial ugly HTML will turn into something similar to:
 
 <p align="center">
   <img src="./images/awesome_books_core_elements.png" alt="Core elements" width="400px"  />
@@ -40,11 +40,11 @@ In the last step, you will build a complete website with working navigation. Aga
 
 
 
-### Project milestones
+### Projects list
 
-You will be building your "Awesome books" website during the whole week. Here is the list of project milestones that will guide you through the steps described above. You will find details about each of the milestone requirements in the upcoming program activities. In all of the milestones, you will be working collaboratively by using pair-programming.
+You will be building your "Awesome books" website during the whole week. Here is the list of projects that will guide you through the steps described above. You will find details about each of the project requirements in the upcoming program activities. In all of the projects, you will be working collaboratively by using pair-programming.
 
-- Milestone 1: Manage books collection (plain JS with objects).
-- Milestone 2: Manage books collection (plain JS with classes).
-- Milestone 3: Style core elements of the page.
-- Milestone 4: Create a complete website with navigation.
+- Project 1: Manage books collection (plain JS with objects).
+- Project 2: Manage books collection (plain JS with classes).
+- Project 3: Style core elements of the page.
+- Project 4: Create a complete website with navigation.
