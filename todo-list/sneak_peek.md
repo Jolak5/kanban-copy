@@ -9,12 +9,12 @@
 ## Description
 
 "To Do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
-In this project, you will build a simple website that allows for doing that, and you will do it with the usage of ES6 and Webpack!
+You will build a simple website that allows for doing that, and you will do it with the usage of ES6 and Webpack!
 
 
 ### How to build the "To Do list" website?
 
-In this project, you will build a very simple yet powerful To Do list. It will be inspired by the [minimalist](http://www.getminimalist.com/) project.
+You will build a very simple yet powerful To Do list. It will be inspired by the [minimalist](http://www.getminimalist.com/) website.
 The final result will look similar to:
 
 <p align="center">
@@ -32,9 +32,9 @@ Go back to the [minimalist](http://www.getminimalist.com/) demo page to play aro
 
 
 
-### Project milestones
+### Projects list
 
-You will be building a "To Do list" website during the whole week. Here is the list of project milestones that will guide you through the functionalities described above. You will find details about each of the milestone requirements in the upcoming program activities.
+You will be building a "To Do list" website during the whole week. Here is the list of projects that will guide you through the functionalities described above. You will find details about each of the milestone requirements in the upcoming program activities.
 
 - Milestone 1: list structure.
 - Milestone 2: interactive list.
