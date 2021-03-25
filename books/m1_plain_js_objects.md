@@ -7,76 +7,47 @@
 ### Estimated time: 3h
 
 ## Description
-You will learn how to use JS objects to add/remove books and update the books list accordingly.
+In the first milestone of this project you will learn:
+- How to use JS objects to represent a book.
+- How to add/remove books from a book list and render the list.
+
+*IMPORTANT NOTE: Read **all** requirements before you start building your project.*
+
+### General requirements
+
+- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
+- Make sure that you used correct [Github Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
+- Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
 
 ### Project requirements
-- Add new book with title and author (newly added book should be displayed on the list)
-- Remove a book from the list (it should disappear from the list).
 
-Remember the basic design of our books application:
-![Awesome books basic UI](./images/awesome_books_basic_ui.png "Awesome books basic UI")
+- Create a collection that keeps a list of books (hint: you can use an array of objects for that).
+- Create a method to add a new book to the collection, with title and author.
+- Create a method to remove a book from the collection (hint: you can use the [array filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) method).
+- Display all books saved in the collection in the top part of the page.
+- Make sure that when a user clicks the "Add" button:
+  - A new book is added to the collection.
+  - The new book is displayed in the page.
+- Make sure that when a user clicks the "Remove" button:
+  - The right book is removed from the collection.
+  - The right book dissapears from the page.
+- Make sure that data is preserved in the browser's memory by using [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) (hint: you may also need to use [JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON) `parse()` and `stringify()` methods).
+- To debug your application, you can use [console.log()](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
+- Implement only a basic UI with plain HTML:
+<p align="center">
+  <img src="./images/awesome_books_basic_ui.png" alt="Basic UI"  width="300px"/>
+</p>
 
-To add a book, you can represent it as an **object**, to do that you need to identify the data you need, in this case, the `title`, `author` and since several books can have the same author or title you need a unique `id` to identify each book. Your object should look like this:
+### Need a big picture?
 
-```javascript
-const book = {
-  title: "Lorem ipsum",
-  author: "Testeroo Testyy",
-  id: 1
-}
-````
+Remind me about the [big picture of this project.]('sneak_peek.md')
 
-Then, you need a place to store all your books, you can do this with an **array**:
+### Code review / Review
 
-```javascript
-const books = [] // At the beginning is empty
-books.push(book) // push will add your book to the array of books
-```
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
 
-To see in the console the last change you've made to the array, use **console.log()**:
+## Submit your project
 
-```javascript
-console.log(books)
-```
-
-To access the books stored in your books array, you can access them with its index:
-
-```javascript
-const firstBook = books[0] // Arrays are zero-based, 0 is the first element
-console.log(firstBook.title) // Access the property title in your object
-```
-
-Or, you can iterate over the entire collection:
-
-```javascript
-for(let book of books){
-  console.log(book)
-}
-```
-
-To **remove** a single book from the book list, you need to filter using the unique identifier `id`. There are several ways to do this, one is using the array **filter()** method:
-
-```javascript
-const filteredBooks = books.filter(book => book.id !== 1) // Will return a new array whit all the books where id is not 1
-```
-
-To save your books in the browser's memory, you can use **localStorage**, remember that localStorage supports only string values, not arrays or objects, you'll need to use **JSON.stringify()** and **JSON.parse()**:
-
-```javascript
-localStorage.setItem("books", JSON.stringify(books)) // Saving to local storage
-const storedBooks = JSON.parse(localStorage.getItem("books")) // Get an item from local storage
-```
-
-Take a look at this useful **documentation**:
-
-[MDN - Working with objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-
-[MDN - Aray](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-
-[MDN - Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
-
-[MDN - console.log()](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
-
-[MDN - Window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
-
-[MDN - JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
+After the final approval from a code reviewer, you need to submit your project.
+[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
+Now go to your Student Dashboard and submit your project.
