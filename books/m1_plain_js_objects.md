@@ -1,4 +1,4 @@
-# Awesome books: plain JS with objects
+# Awesome books: plain JavaScript with objects
 
 ## Learning objectives
 - Use JavaScript objects as design pattern.
@@ -7,9 +7,8 @@
 ### Estimated time: 3h
 
 ## Description
-In the first milestone of this project you will learn:
-- How to use JS objects to represent a book.
-- How to add/remove books from a book list and render the list.
+
+In this project, you will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript objects to represent books.
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
@@ -19,11 +18,20 @@ In the first milestone of this project you will learn:
 - Make sure that you used correct [Github Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
 - Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
 
+### JavaScript requirements
+
+- Follow our list of [best practices for JavaScript](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md).
+
 ### Project requirements
 
+- Implement only a basic UI with plain HTML:
+<p align="center">
+  <img src="./images/awesome_books_basic_ui.png" alt="Basic UI"  width="300px"/>
+</p>
+
 - Create a collection that keeps a list of books (hint: you can use an array of objects for that).
-- Create a method to add a new book to the collection, with title and author.
-- Create a method to remove a book from the collection (hint: you can use the [array filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) method).
+- Create a function to add a new book to the collection, with title and author.
+- Create a function to remove a book from the collection (hint: you can use the [array filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) method).
 - Display all books saved in the collection in the top part of the page.
 - Make sure that when a user clicks the "Add" button:
   - A new book is added to the collection.
@@ -31,16 +39,12 @@ In the first milestone of this project you will learn:
 - Make sure that when a user clicks the "Remove" button:
   - The right book is removed from the collection.
   - The right book dissapears from the page.
-- Make sure that data is preserved in the browser's memory by using [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) (hint: you may also need to use [JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON) `parse()` and `stringify()` methods).
+- Make sure that data is preserved in the browser's memory by using [localStorage](https://github.com/microverseinc/curriculum-html-css/blob/main/local_storage.md)
 - To debug your application, you can use [console.log()](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
-- Implement only a basic UI with plain HTML:
-<p align="center">
-  <img src="./images/awesome_books_basic_ui.png" alt="Basic UI"  width="300px"/>
-</p>
 
 ### Need a big picture?
 
-Remind me about the [big picture of this project.]('sneak_peek.md')
+Remind me about the [big picture of this project.](https://github.com/microverseinc/curriculum-javascript/blob/main/books/sneak_peek.md)
 
 ### Code review / Review
 
