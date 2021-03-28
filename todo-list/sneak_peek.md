@@ -1,5 +1,5 @@
 
-# Sneak peek: To Do list
+# Sneak peek: To-do list
 
 ## Learning objectives
 - Build a website based on an existing website.
@@ -8,13 +8,12 @@
 
 ## Description
 
-"To Do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
-You will build a simple website that allows for doing that, and you will do it with the usage of ES6 and Webpack!
+"To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
+You will build a simple website that allows for doing that, and you will do it using ES6 and Webpack!
 
+### How to build the "To-do list" website?
 
-### How to build the "To Do list" website?
-
-You will build a very simple yet powerful To Do list. It will be inspired by the minimalist website. That website is already offline but you can still play with thanks to [web.archive.org](https://web.archive.org/web/20180320194056/http://www.getminimalist.com:80/).
+You will build a very simple yet powerful to-do list. It will be inspired by the minimalist website. That website is already offline but you can still play with thanks to [web.archive.org](https://web.archive.org/web/20180320194056/http://www.getminimalist.com:80/).
 
 Your task is to build a website that displays a list that looks and behaves like the part of minimalist project capture in the video below.
 
@@ -22,16 +21,15 @@ Your task is to build a website that displays a list that looks and behaves like
 
 You will need to implement the following functionalities (presented in the video above):
 - Adding a new item.
-- Removing selected item.
-- Reordering selected item (as drag&drop).
+- Removing a selected item.
+- Reordering a selected item (as drag-and-drop).
 - Marking a selected item as complete.
 - Removing all items marked as complete at once.
 
-
 ### Projects list
 
-You will be building a "To Do list" website during the whole week. Here is the list of projects that will guide you through the functionalities described above. You will find details about each of the milestone requirements in the upcoming program activities.
+You will be building a "To-do list" website during the whole week. Here is the list of projects that will guide you through the functionalities described above. You will find details about each of the project requirements in the upcoming program activities.
 
-- Project 1: list structure.
-- Project 2: interactive list.
-- Project 3: add and remove items.
+- Project 1: List structure.
+- Project 2: Interactive list.
+- Project 3: Add and remove items.
