@@ -14,22 +14,18 @@ You will build a simple website that allows for doing that, and you will do it w
 
 ### How to build the "To Do list" website?
 
-You will build a very simple yet powerful To Do list. It will be inspired by the [minimalist](http://www.getminimalist.com/) website.
-The final result will look similar to:
+You will build a very simple yet powerful To Do list. It will be inspired by the minimalist website. That website is already offline but you can still play with thanks to [web.archive.org](https://web.archive.org/web/20180320194056/http://www.getminimalist.com:80/).
 
-<p align="center">
-  <img src="./images/todo_minimalist.png" alt="Basic UI" width="500px" />
-</p>
+Your task is to build a website that displays a list that looks and behaves like the part of minimalist project capture in the video below.
 
-You will need to implement the following functionalities:
+[![Capstone intro](https://img.youtube.com/vi/AcUd-_Yjjqg/0.jpg)](https://www.youtube.com/watch?v=AcUd-_Yjjqg)
+
+You will need to implement the following functionalities (presented in the video above):
 - Adding a new item.
 - Removing selected item.
 - Reordering selected item (as drag&drop).
 - Marking a selected item as complete.
 - Removing all items marked as complete at once.
-
-Go back to the [minimalist](http://www.getminimalist.com/) demo page to play around with the mentioned functionalities.
-
 
 
 ### Projects list
