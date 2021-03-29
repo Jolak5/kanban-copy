@@ -1,9 +1,8 @@
-# JavaScript objects as design pattern
+# Working with objects
 
 ## Learning objectives
-- Use JavaScript objects as design pattern.
-- Use developer tools to print information to the console.
-- Demonstrate ability to write methods on objects.
+- Understand different ways to create objects in JavaScript.
+- Learn to create and access properties and methods.
 
 ### Estimated time: 1.5h
 
