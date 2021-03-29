@@ -5,7 +5,7 @@
 - Use developer tools to print information to the console.
 - Demonstrate ability to write methods on objects.
 
-### Estimated time: 1h
+### Estimated time: 1.5h
 
 ## Description
 
