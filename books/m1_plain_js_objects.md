@@ -3,13 +3,13 @@
 ## Learning objectives
 
 - Understand different ways to create objects in JavaScript.
-- Learn to create and access properties and methods.
+- Create and access properties and methods of JavaScript objects.
 
 ### Estimated time: 3h
 
 ## Description
 
-In this project, you will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript objects and arrays, you will also need to dinamycally modify the DOM and add basic events.
+In this project, you will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript objects and arrays. You will also need to dynamically modify the DOM and add basic events.
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
