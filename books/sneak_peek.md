@@ -30,7 +30,7 @@ Once you have the code working, you will style the core elements: the books list
   <img src="./images/awesome_books_core_elements.png" alt="Core elements" width="400px"  />
 </p>
 
-In the last step, you will build a complete website with working navigation. Again styling is your choice, but it is essential to adhere to the layout presented in the wireframe. Your end result should look similar to this:
+In the last step, you will build a complete website with working navigation. When a user clicks on a link in the navigation bar, the content in the main section of the website changes (URL stays the same, though.) Again styling is your choice, but it is essential to adhere to the layout presented in the wireframe. Your end result should look similar to this:
 
 <p align="center">
   <img src="./images/awesome_books_full_website.png" alt="Full website" />
