@@ -2,7 +2,7 @@
 
 ## Learning objectives
 - Understand different ways to create objects in JavaScript.
-- Learn to create and access properties and methods.
+- Create and access properties and methods of JavaScript objects.
 
 ### Estimated time: 1.5h
 
