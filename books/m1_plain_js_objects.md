@@ -1,14 +1,15 @@
 # Awesome books: plain JavaScript with objects
 
 ## Learning objectives
-- Use JavaScript objects as design pattern.
-- Use developer tools to print information to the console.
+
+- Understand different ways to create objects in JavaScript.
+- Learn to create and access properties and methods.
 
 ### Estimated time: 3h
 
 ## Description
 
-In this project, you will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript objects to represent books.
+In this project, you will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript objects and arrays, you will also need to dinamycally modify the DOM and add basic events.
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
