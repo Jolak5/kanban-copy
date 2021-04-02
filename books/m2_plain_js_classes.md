@@ -26,8 +26,9 @@ In this project, you will refactor the **Awesome books** application to use Java
 
 - Use JavaScript `classes` instead of `objects` and `arrays`.
   - You can use objects and arrays, but do it *inside* classes.
-- Create class `methods` to add and remove books
-- Keep all functionality of the application
+- Create class `methods` to add and remove books.
+- Keep all functionality of the application.
+- Don't use any library or framework, use only plain JavaScript.
 
 ### Need a big picture? 
 
