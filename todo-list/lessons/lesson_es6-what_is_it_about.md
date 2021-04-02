@@ -20,9 +20,9 @@ Among other new syntax, ES6 introduced two new keywords for variable declaration
 ### Why is it important?
 Correctly declaring variables is absolutely essential for any application. Understanding how scope and the new keywords work will make your code more resilient to unexpected errors and unwanted behavior.
 
-To learn about scope read: https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11
+- [Learn about the *scope*](https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11)
 
-To learn about  `const`, `let` and how it differs from `var` read: https://dev.to/sandy8111112004/javascript-var-let-const-41he
+- [Learn about  `const`, `let` and how it differs from `var`](https://dev.to/sandy8111112004/javascript-var-let-const-41he)
 
 ## Arrow functions
 Another new feature introduced in the 6th version of EcmaScript is the **arrow function**. It has a new, shorter syntax, but most importantly, it has no `this` of its own.
