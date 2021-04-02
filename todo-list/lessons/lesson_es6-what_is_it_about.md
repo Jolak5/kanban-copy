@@ -20,9 +20,10 @@ Among other new syntax, ES6 introduced two new keywords for variable declaration
 ### Why is it important?
 Correctly declaring variables is absolutely essential for any application. Understanding how scope and the new keywords work will make your code more resilient to unexpected errors and unwanted behavior.
 
-- [Learn about the *scope*](https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11)
+To learn these concepts:
+- [read about the *scope*](https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11)
 
-- [Learn about  `const`, `let` and how it differs from `var`](https://dev.to/sandy8111112004/javascript-var-let-const-41he)
+- [read about  `const`, `let` and how it differs from `var`](https://dev.to/sandy8111112004/javascript-var-let-const-41he)
 
 ## Arrow functions
 Another new feature introduced in the 6th version of EcmaScript is the **arrow function**. It has a new, shorter syntax, but most importantly, it has no `this` of its own.
@@ -30,8 +31,8 @@ Another new feature introduced in the 6th version of EcmaScript is the **arrow f
 ### Why are arrow functions important?
 Problems with binding `this` in traditional JavaScript functions were the main reason for the introduction of the arrow function in ES6. We now have a new  powerful and predictable way to write and use functions in our applications.
 
-To learn about the *arrow functions* read: https://www.w3schools.com/js/js_arrow_function.asp
-and watch this short video: https://youtu.be/NAN7U3MrX6o
+Read about the  [*arrow functions*](https://www.w3schools.com/js/js_arrow_function.asp)
+and [watch this short video](https://youtu.be/NAN7U3MrX6o) to familiarise yourself with them.
 
 ## `Promise`s 
 `Promise`s are a new, reliable intermediary between our calling function and our async code. We can think of them as *future value* containers.
@@ -40,8 +41,7 @@ and watch this short video: https://youtu.be/NAN7U3MrX6o
 ### Why are `Promise`s imoportant?
 `Promise`s represent an important step in the development of asynchronous programming in JavaScript. They introduce order and guarantee the predictability of events.
 
-To learn about creating and using `Promise`s read:
-https://javascript.info/promise-basics
+Read about [creating and using Promises](https://javascript.info/promise-basics) in ES6.
 
 ## *Spread* and *destructuring*
 ES6 introduces a new operator `...` (*spread*) and a new syntactic capability called *destructuring*. Both concepts quickly caught on in the JavaScript community and became an integral part of most modern applications.
@@ -50,9 +50,9 @@ ES6 introduces a new operator `...` (*spread*) and a new syntactic capability ca
 Among the many other benefits of using the *spread* operator, it allows you to easily apply the concept of "immutability", which is crucial when building larger applications and has become the basis of libraries such as ReduxJS.
 Destructuring, in turn, has become the primary syntax for writing *hooks* in the popular React library. Understanding both concepts is essential today for JavaSript developers.
 
-To learn about *spread* operator read: https://www.geeksforgeeks.org/javascript-spread-operator/
-
-To learn about *destructuring* read https://javascript.info/destructuring-assignment
+To familiarise yourself with it
+- [read about *spread* operator](https://www.geeksforgeeks.org/javascript-spread-operator/)
+- [read about *destructuring*](https://javascript.info/destructuring-assignment)
 
 
 
