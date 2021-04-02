@@ -34,7 +34,7 @@ To learn about the *arrow functions* read: https://www.w3schools.com/js/js_arrow
 and watch this short video: https://youtu.be/NAN7U3MrX6o
 
 ## `Promise`s 
-Promises are a new, reliable intermediary between our calling function and our async code. We can think of them as *future value* containers.
+`Promise`s are a new, reliable intermediary between our calling function and our async code. We can think of them as *future value* containers.
 
 
 ### Why are `Promise`s imoportant?
@@ -63,7 +63,7 @@ Check your understanding of this lesson. Try answering the questions below and t
 
 
 - Question 1 - What is the output of each of the console log?
-```
+```javascript
 var color = "red";
 let animal = "dog"
 {
@@ -77,7 +77,7 @@ console.log(`log 3 - color: ${color}`);
 console.log(`log 4 - animal: ${animal}`);
 ```
 - Question 2 - What is the output of the console log?
-```
+```javascript
 const pr = new Promise(function(resolve,reject){
     setTimeout(() => resolve("foo"), 1000);
     setTimeout(() => resolve("bar"), 500);
