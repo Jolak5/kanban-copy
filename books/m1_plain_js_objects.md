@@ -40,8 +40,9 @@ In this project, you will build a basic website that allows users to add/remove 
 - Make sure that when a user clicks the "Remove" button:
   - The right book is removed from the collection.
   - The right book dissapears from the page.
-- Make sure that data is preserved in the browser's memory by using [localStorage](https://github.com/microverseinc/curriculum-html-css/blob/main/local_storage.md)
-- To debug your application, you can use [console.log()](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
+- Make sure that data is preserved in the browser's memory by using [localStorage](https://github.com/microverseinc/curriculum-html-css/blob/main/local_storage.md).
+- To debug your application, you can use [console.log()](https://developer.mozilla.org/en-US/docs/Web/API/Console/log).
+- Don't use any library or framework, use only plain JavaScript.
 
 ### Need a big picture?
 
