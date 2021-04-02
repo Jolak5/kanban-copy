@@ -2,10 +2,10 @@
 
 ## Learning objectives
 - learn new ES6 syntax and understand what kind of improvements it brings to the language
-- understand the `scope` in JavaScript and *block level* variable declarations
+- understand the *scope* in JavaScript and *block-level* variable declarations
 - understand how *arrow functions* work
-- use `Promisse`'s  for assynchronous events handling
-- learn how to use *speread operator* and *destructuring*
+- use `Promise`'s for asynchronous events handling
+- learn how to use *spread* operator and *destructuring*
 
 ### Estimated time: 2h
 
