@@ -22,4 +22,7 @@ Since the introduction of ES6 Modules, the task has never been easier.
 - [Learn how to create and use JS modules](https://javascript.info/import-export)
 - [Use Code Sandbox](https://codesandbox.io/) to experiment with your own ES6 modules. (Click "Create Sandbox" and select "Vanilla JS" to start the playground)
 
-
+### Aditional materials
+These are optional, but if you want to explore the syntax and functionality of ES6 Modules in more details, read these articles as well: 
+- [about `export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
+- [about `import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
