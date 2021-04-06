@@ -1,7 +1,7 @@
 # ES6 Modules
 
 ## Learning objectives
-- Learn how to use ES6 modules
+- Use ES6 modules
 - Understand the benefits of modular architecture in JavaScript applications
 
 
@@ -18,9 +18,8 @@ Modularity allows applications to scale and to be worked on by a large number of
 Since the introduction of ES6 Modules, the task has never been easier.
 
 ### Learn and play with ES6 Modules 
-
-- [Learn how to create and use JS modules](https://javascript.info/import-export)
-- [Use Code Sandbox](https://codesandbox.io/) to experiment with your own ES6 modules. (Click "Create Sandbox" and select "Vanilla JS" to start the playground)
+- [Learn about JavaScript modules](https://javascript.info/modules-intro)
+- [Learn about ES6 `export` and `import` directives](https://javascript.info/import-export)
 
 ### Aditional materials
 These are optional, but if you want to explore the syntax and functionality of ES6 Modules in more details, read these articles as well: 
