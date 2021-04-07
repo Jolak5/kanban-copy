@@ -1,7 +1,7 @@
 # Webpack
 
 ## Learning objectives
-- Use webpack.
+- Use webpack
 
 ### Estimated time: 1h
 
@@ -10,7 +10,7 @@
 
 
 ### Why is webpack important?
-Historically webpack was the enabler for using the ES6 Modules before any browser would implement the support for it. Today webpack, thanks to its *dependency graph* and *loaders*, also allows for using stylesheets or non-code assets, such as images and web fonts, just like module imports. It cares for performance in production and gives a great developer experience.
+Historically webpack was the enabler for using the ES6 Modules before any browser would implement the support for it. Today webpack, thanks to its *dependency graph* and *loaders*, also allows for stylesheets and non-code assets, such as images and web fonts, to be used just like module imports. It cares for performance in production and gives a great developer experience.
 
 In order to start your adventure with webpack, read about:
 - [getting started with webpack](https://webpack.js.org/guides/getting-started/)
