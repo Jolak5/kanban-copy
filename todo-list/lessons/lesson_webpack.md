@@ -12,7 +12,7 @@
 ### Why is webpack important?
 Historically webpack was the enabler for using the ES6 Modules before any browser would implement the support for it. Today webpack, thanks to its *dependency graph* and *loaders*, also allows for stylesheets and non-code assets, such as images and web fonts, to be used just like module imports. It cares for performance in production and provides a great experience for developers.
 
-In order to start your adventure with webpack, read about:
+To start your adventure with webpack, read about the following topics. Please note, that you don't need to follow these steps now - just read it through and we'll set up webpack in our next excercise.
 - [getting started with webpack](https://webpack.js.org/guides/getting-started/)
 - [asset management](https://webpack.js.org/guides/asset-management/)
 - [output management](https://webpack.js.org/guides/output-management/)
