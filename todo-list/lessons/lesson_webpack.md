@@ -18,6 +18,6 @@ In order to start your adventure with webpack, read about:
 - [output management](https://webpack.js.org/guides/output-management/)
 - [development](https://webpack.js.org/guides/development/)
 
-## Additional materials [optional header]
-These are all optional, but if you'd like to understand better how webpack works, read about the [main webpack concepts](https://webpack.js.org/concepts/)
+## Additional materials
+This is optional, but if you'd like to understand better how webpack works, read about the [main webpack concepts](https://webpack.js.org/concepts/)
 
