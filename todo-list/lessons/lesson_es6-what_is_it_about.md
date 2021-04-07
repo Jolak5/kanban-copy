@@ -8,9 +8,9 @@
 
 ## ECMAScript 6 (ES6)
 The official name of JavaScript is ECMAScript (ES for short). Until 2015, subsequent versions of ES were numbered consecutively with integers, but at the late phase of work on version 6, an idea arose to name them from the year of publication. For this reason, you may come across the name ES2015 used interchangeably for ES6.
-The sixth edition of ES brings many excellent solutions and improvements to the language. Transpilers, *shim*, and *polyfill* libraries paired with the dynamic development of browsers meant that programmers could very quickly use all the possibilities that JavaScript now has to offer, making it one of the most popular programming languages in the world.
 
 ### Why is it important?
+The sixth edition of ES brings many excellent solutions and improvements to the language. Transpilers, *shim*, and *polyfill* libraries paired with the dynamic development of browsers meant that programmers could very quickly use all the possibilities that JavaScript now has to offer, making it one of the most popular programming languages in the world.
 
 ### `let`, `const` and *block scoping*
 One of the most fundamental ideas of any programming language is **scope**. Each variable declared by the programmer lives in some scope. Before ES6, JavaScript used one keyword to declare variables - `var` - and two main scopes where variables lived:
