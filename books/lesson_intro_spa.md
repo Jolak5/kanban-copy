@@ -20,7 +20,7 @@ Without JavaScript, websites would be static, in other words, they will look and
 
 The Document Object Model (DOM) is a representation of all the elements of an HTML document (or web page). Using JavaScript you can manipulate these elements, adding and removing them or changing their contents. You have already learned about DOM manipulation in the previous module's lesson. As a refresher please:
 
-- Read the article [JavaScript HTML DOM Events]((https://www.w3schools.com/js/js_htmldom.asp)) and complete all of the *Try It Yourself* exercises. Thanks to that you will practice how to change DOM elements contents.
+- Read the article [JavaScript HTML DOM Events](https://www.w3schools.com/js/js_htmldom.asp) and complete all of the *Try It Yourself* exercises. Thanks to that you will practice how to change DOM elements contents.
 
 
 ### Single Page Applications
