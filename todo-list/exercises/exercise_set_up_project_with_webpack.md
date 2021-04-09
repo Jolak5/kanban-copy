@@ -15,7 +15,7 @@ You should know how webpack works, and how you can configure it to fit your proj
 
 ### Init new project and install webpack
 
-First, create a new folder **webpack-exercise**, init the project and install webpack:
+First, create a new folder **webpack-exercise**, `init` the project and install webpack:
 ```
 mkdir webpack-exercise
 cd webpack-exercise
@@ -42,10 +42,9 @@ module.exports = {
 ```
 Now we want to add webpack to our scripts in **package.json**, to  conveniently run it when we need it:
 ```json
-...
 "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-+   "build": "webpack"
+    +"build": "webpack"
   },
 ```
 ### Add entry file 
@@ -68,7 +67,7 @@ webpack-exercise
 
 ```
 ### Add HTML
-To have our application working in the browser we need to add a HTML file. All the files that will be viewable in a browser will be placed in */dist* directory. In general, we should not create files manually in the */dist* folder, as there's always a risk our changes will be overwritten. Therefore, we will add a webpack plugin to automatically create **index.html** for us. 
+To have our application working in the browser we need to add a HTML file. All the files viewable in a browser will be placed in */dist* directory. In general, we should not create files manually in the */dist* folder, as there's always a risk our changes will be overwritten. Therefore, we will add a webpack plugin to automatically create **index.html** for us. 
 
 Follow the instructions from the [setting up HtmlWebpackPlugin](https://webpack.js.org/guides/output-management/#setting-up-htmlwebpackplugin) guide. Be extra careful when updating the `module.exports` object in your **webpack.config.js** file, to not to make any nesting mistakes.
 
@@ -100,6 +99,8 @@ Therefore we will install a webpack dev server, which will *watch* our source fi
 
 Follow the [using webpack-dev-server](https://webpack.js.org/guides/development/#using-webpack-dev-server) guide and set it up on your local machine.
 Again, be cautious with the `module.exports` object in your **webpack.config.js**.
+
+Once these steps are complete, you should see your application working at: `http://localhost:8080/`. Every change you make in **js** or **css** files now should be reflected in a browser a few seconds later.
 
 ### Submit your exercise
 --TODO: write submission instructions
