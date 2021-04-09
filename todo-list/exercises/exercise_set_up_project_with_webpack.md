@@ -103,7 +103,8 @@ Again, be cautious with the `module.exports` object in your **webpack.config.js*
 Once these steps are complete, you should see your application working at: `http://localhost:8080/`. Every change you make in **js** or **css** files now should be reflected in a browser a few seconds later.
 
 ### Submit your exercise
---TODO: write submission instructions
+Submit a link to the GitHub repository with the "Hello webpack" project. 
+Please note that as it is an exercise you do not need a code review so, you can merge PR immediately after you are done with the task.
 
 ## Additional materials
 We strongly advise you to check the [official webpack documentation](https://webpack.js.org/concepts/) for better understanding of the tools you're using here.
