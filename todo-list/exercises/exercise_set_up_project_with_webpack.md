@@ -77,6 +77,19 @@ npm run build
 ```
 and check your */dist* folder. If it contains a new **index.html** file, it means you were successful. Open it in a browser and check if your `console.log` message shows correctly. View it in a code editor and check, how webpack correctly inserted `<script>` tag with a path to *./main.js* and minified the HTML for better performance.
 
+### HTML template
+If you plan to write some HTML in your project, it's easiest to do it with a template. Create a */src/index.html*, in which you can set your markup. Then modify **webpack.config.js**, to point Html Webpack Plugin towards your template file:
+```javascript
+plugins: [
+  new HtmlWebpackPlugin({
+-    title: 'Output Management',
++    template: './src/index.html'
+  }),
+],
+```
+You could as well remove the title property (as showed above), and you can set page title within you */src/index.html*.
+Run `npm run build` to update the */dist/index.html*.
+
 ### Add CSS
 Now let's add some style to our boilerplate.
 Follow the steps in [loading CSS](https://webpack.js.org/guides/asset-management/#loading-css) guide.
