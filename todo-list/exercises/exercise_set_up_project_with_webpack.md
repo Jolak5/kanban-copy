@@ -13,7 +13,7 @@ You should know how webpack works, and how you can configure it to fit your proj
 
 ## Exercise
 
-### Init new project and install webpack
+### Initialize new project and install webpack
 
 First, create a new folder **webpack-exercise**, `init` the project and install webpack:
 ```
@@ -44,7 +44,7 @@ Now we want to add webpack to our scripts in **package.json**, to  conveniently 
 ```json
 "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    +"build": "webpack"
++   "build": "webpack"
   },
 ```
 ### Add entry file 
@@ -105,5 +105,5 @@ Once these steps are complete, you should see your application working at: `http
 ### Submit your exercise
 --TODO: write submission instructions
 
-## Additional materials [optional header]
-We strongly advise you to check the [official webpack documentation](https://webpack.js.org/concepts/) to have a thorough understanding of the tools you're using here.
+## Additional materials
+We strongly advise you to check the [official webpack documentation](https://webpack.js.org/concepts/) for better understanding of the tools you're using here.
