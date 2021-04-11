@@ -34,7 +34,6 @@ If you plan to write some HTML in your project, it's easiest to do it with a tem
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Wbpack Exercise</title>
 </head>
@@ -48,8 +47,8 @@ Then modify **webpack.config.js**, to point HtmlWebpackPlugin towards your templ
 ```javascript
 plugins: [
   new HtmlWebpackPlugin({
-    -title: 'Output Management',
-    +template: './src/index.html'
+-   title: 'Output Management',
++   template: './src/index.html'
   }),
 ],
 ```
@@ -69,11 +68,7 @@ body {
     background-color: bisque;
 }
 ```
-Next, execute:
-``` 
-npm run build 
-```
-and check if the HTML body style has changed.
+Next, execute `npm run build` and check if the HTML body style has changed.
 
 ### Setup local dev server
 Finally, it's time to improve your developer experience. When working on the project you will not want to run the build command from the terminal every time you make a change in the code. 
