@@ -1,4 +1,4 @@
-# JavaScript capstone project - Conference page
+# JavaScript capstone project - Your API-based webapp
 
 ## Learning objectives
 
@@ -21,7 +21,7 @@
 
 ## Description
 
-The project you are going to build is based on... 
+The JavaScript capstone project is about building your own web application based on an external API. You will select an API that provides data about a topic that you like and then build the webapp around it. The webapp will have 2 or 3 pages (depending on the size of your team), a) the home page showing a list of items that you can "like" and b) a popup window with more data about an item that you can use to comment on it or reserve it for a period of time.
 
 <p align="center">
   <img src="./images/Home.png" alt="Home page" />
@@ -50,81 +50,99 @@ The project you are going to build is based on...
 
 ### Project requirements
 
-- You should personalize the content of you page: choose a topic and build the web around it
-- You should build only these 2 pages:
+**APIs**
+- First, you need to find an API to base the development of the webapp around it. The API should allow you to
+  - Get a list of items with a unique item id (or generate the unique id)
+  - For a given item, get detailed information about it
+  
+  We recommend that you choose an APIs that **doesn't need authentication**. if you select an API that requires authentication, you should implement it on your own. Also, if you select an API that provides **image** resources your webapp will be more visual.
+
+  Some example APIs are
+  - [Pokeapi](https://pokeapi.co/): data about the Pokémon world
+  - [TVmaze API](https://www.tvmaze.com/api): data about TV series and movies
+  - [Meals DB](https://www.themealdb.com/api.php): data about meals
+
+  You can find more APIs in [this GitHub repo](https://github.com/public-apis/public-apis) or in [ProgrammableWeb](https://www.programmableweb.com/category/all/apis). Some of the APIs requires a token, authentication and some others are just open.
+- You will use our [Involvement API](https://www.notion.so/microverse/Involvement-API-869e60b5ad104603aa6db59e08150270) to record the different user interactions (likes, comments and reservations)
+
+**Pages**
+- You should build these pages:
   - the *home page*
-  - the *details page*
-- Each of these pages should have versions for 2 different screen sizes: 
-  - mobile: up to 768px
-  - desktop: from 768px
-- You should follow the [design guidelines](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015), including
-  - colors
-  - typographies: font face, size and weight
-  - layout: composition and space between elements
-- Interactions
-  - links
-    - the *home page* have a link in the menu to the *about page*
-    - the logo in the header links to the *home page*
-  - mobile menu
-    - when the user clicks (or taps) the hamburger button on the header, the mobile menu appears over the page
-    - there are no guidelines for the mobile menu in the docs, but you should implement it so it is consistent with the design (colors, typography, spacings, etc.)
-    - the mobile menu has a close (X) button that closes the menu
-- Dynamic page
-  - the section "Featured speakers" should be created dynamically in JavaScript
-  - you should use a JavaScript variable with the data of the speakers and use it when the page loads to create the HTML of the section dynamically
+  - the *comments popup*
+  - the *reservations popup* (only for the groups of 3 students)
+- You should follow the design guidelines of the mockups provided above only in terms of the data displayed on the page. You should personalize the rest of the design including colors, typographies, spacings, etc.
+- Home page
+  - When the page loads, the webapp retrieves data from 
+    - the selected API and shows the list of items on screen
+    - the Involvement API to show the item likes
+  - When the user clicks on the Like button of an item, the interaction is recorded in the Involvement API and the screen is updated
+- Comments popup
+  - When the page loads, the webapp retrieves data from
+    - the selected API and shows details about the selected item
+    - the Involvement API to show the item comments
+  - When the user clicks on the "Comment" button, the data is recorded in the Involvement API and the screen is updated
+- Reservations popup (only for the groups of 3 students)
+  - When the page loads, the webapp retrieves data from
+    - the selected API and shows details about the selected item
+    - the Involvement API to show the item reservations
+  - When the user clicks on the "Reserve" button, the data is recorded in the Involvement API and the screen is updated
+- Other shared work on the home page
+  - When the user clicks on the "Comments" button, the Comments popup appears
+  - When the user clicks on the "Reservations" button, the Reservations popup appears (only for the groups of 3 students)
+  - Home page header and navigation similar to the given mockup
+  - Home page footer similar to the given mockup
+
+**Counters**
+We have counters in all the pages that show
+- the number of items (home)
+- the number of comments (comments popup)
+- the number of reservations (reservations popup) - only for the groups of 3 students
+
+Even if the API gives you these number, you will create a specific function to calculate this numbers in each page. These count functions need to be covered with unit tests using Jest.
+
+
+**Technical set up**
+- Set up the repository on GitHub and use gitflow
+- Set up webpack
+- Set up a JavaScript testing library (Jest)
 
 ### Project documentation
 
 Once you have finished the development of the project, you should record a video presenting the features of the project you built. It is a video with a **maximum length of 5 minutes**. The content of the video should include:
 
 - a description of the project
-- a demo of the project features (different pages and different screen sizes)
+- a demo of the project features
 - you should also highlight some interesting piece of code or something you built that you are very proud of
+- you all should appear in the video and talk about the project
 
-For recording the video you can use tools like [Loom](https://www.loom.com/), that let you share a private link to the recording, and configure a shot that shows your computer screen and your face at the same time in a small picture.
+For recording the video you can use the Zoom recording features while in a call with your peers.
 
-## Challenge breakdown
+### Workload distribution
 
-In order to tackle this challenge, you need a plan! We created high-level milestones for you. Your job is to make them more detailed.
+In order to tackle this challenge, we created [a list of tasks](TBD) so you can organize the work. You will be working in this way:
+- The common tasks (set up repo, find the API, shared work on the home page) will be divided among all of you or worked as a team (pair programming)
+- The tasks related to a specific page will be developed individually, every student owning the development of one page
+
+Here is a suggestion of what you can do every day:
 
 ### Day 1
 
-**Milestone 0 - project setup (0.5h)**
-
 - Set up the repository and tools.
-
-**Milestone 1 - content (1h)**
-
-- Choose the topic for your website.
+- Choose the topic for your website and the API.
 - Choose images, text, icons, fonts.
-
-**Milestone 2 - mobile first (5h)**
-
-- Create the 2 pages for mobile
-- Deploy the project
+- Create the basic shared code on the home page.
+- Start individual pages.
 
 ### Day 2
 
-**Milestone 3 - desktop version (5h)**
-
-- Adapt the 2 pages to desktop
-
-**Milestone 4 - interactions (1.5h)**
-
-- Implement the user interactions: link, mobile menu
-- Deploy the project
+- Work on individual pages.
 
 ### Day 3
 
-**Milestone 5 - dynamic page (5h)**
-
-- Implement the section "Featured speakers" with dynamic HTML
-- Deploy the project, and test for final details
-
-**Milestone 6 - documentation (1.5h)**
-
-- Record a video for your project
-- Create a good README and PR description
+- Complete the work on individual pages.
+- Deploy the project, and test for final details.
+- Record a video for your project.
+- Create a good README and PR description.
 
 ### Need a big picture?
 
@@ -148,5 +166,5 @@ Now go to your Student Dashboard and submit your project.
 *If you decide to implement these requirements you should do it in a separate pull request. As always, remember to clearly document your decision in GitHub comments.*
 
 - You could implement some UX improvements: include transitions and/or animations, etc.
-- You can implement additional pages, like one page per category.
-- Make sure that you have a decent desktop design for them.
+- You can implement additional home pages, one page per category of items.
+- Make sure that you have a decent mobile design for the webapp.
