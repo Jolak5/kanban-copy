@@ -24,11 +24,15 @@
 The project you are going to build is based on... 
 
 <p align="center">
-  <img src="./images/home.png" alt="Home page" />
+  <img src="./images/Home.png" alt="Home page" />
 </p>
 
 <p align="center">
-  <img src="./images/detail.png" alt="Detail page" />
+  <img src="./images/Comments.png" alt="Comments page" />
+</p>
+
+<p align="center">
+  <img src="./images/Reservations.png" alt="Reservations page" />
 </p>
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
