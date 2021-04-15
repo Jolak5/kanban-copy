@@ -38,8 +38,8 @@ In this project, you will build a basic website that allows users to add/remove 
   - A new book is added to the collection.
   - The new book is displayed in the page.
 - Make sure that when a user clicks the "Remove" button:
-  - The right book is removed from the collection.
-  - The right book dissapears from the page.
+  - The correct book is removed from the collection.
+  - The correct book dissapears from the page.
 - Make sure that data is preserved in the browser's memory by using [localStorage](https://github.com/microverseinc/curriculum-html-css/blob/main/local_storage.md).
 - To debug your application, you can use [console.log()](https://developer.mozilla.org/en-US/docs/Web/API/Console/log). **Remember to remove debugging code before pushing your code to the remote repository.**
 - Don't use any library or framework, use only plain JavaScript.
@@ -48,7 +48,7 @@ In this project, you will build a basic website that allows users to add/remove 
 
 Remind me about the [big picture of this project.](https://github.com/microverseinc/curriculum-javascript/blob/main/books/sneak_peek.md)
 
-### Code review / Review
+### Code review
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
 
