@@ -40,7 +40,7 @@ The JavaScript capstone project is about building your own web application based
 ### General requirements
 
 - Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct [gitflow](TBD).
+- Make sure that you used correct [gitflow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/gitflow.md).
 - Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
 
 ### HTML/CSS & JavaScript requirements
@@ -146,7 +146,7 @@ Here is a suggestion of what you can do every day:
 
 ### Need a big picture?
 
-Remind me about [what it is a capstone project](TBD).
+Remind me about [what it is a capstone project](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/capstone_intro.md).
 
 ## Code review
 
