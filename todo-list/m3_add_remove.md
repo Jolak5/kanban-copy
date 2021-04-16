@@ -13,16 +13,14 @@ In this project, you will implement the CRUD (create, update, delete) methods. A
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
 ### General requirements
-
 - Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
 - Make sure that you used correct flow ([Github Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
 - Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
 
-### <Section name> requirements
-   <as they change by section below you can find list of all possibilities>
-	### HTML/CSS requirements
+### HTML/CSS requirements
   - Follow our list of the [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
-  ### JavaScript requirements
+  
+### JavaScript requirements
   - Follow our list of [best practices for JavaScript](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md).
 
 ### Project requirements
