@@ -44,6 +44,11 @@ In this project, you will build a basic website that allows users to add/remove 
 - To debug your application, you can use [console.log()](https://developer.mozilla.org/en-US/docs/Web/API/Console/log). **Remember to remove debugging code before pushing your code to the remote repository.**
 - Don't use any library or framework, use only plain JavaScript.
 
+**TIP:** If you have issues with the linter for either having multiple classes at the same file, or not an unused-variable error if you separated the code in multiple files, disable the linter check for that rule in the file with a `/* eslint-disable rule-you-want-to-disable */`
+.
+
+Check the [ESLint documentation](https://eslint.org/docs/2.13.1/user-guide/configuring#disabling-rules-with-inline-comments) for more details on how.
+
 ### Need a big picture?
 
 Remind me about the [big picture of this project.](https://github.com/microverseinc/curriculum-javascript/blob/main/books/sneak_peek.md)
