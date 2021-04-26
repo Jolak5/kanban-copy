@@ -1,9 +1,9 @@
 # To Do list: add & remove
 
 ## Learning objectives
-- Use webpack
-- Use ES6 syntax
-- Use ES6 modules
+- Use webpack to bundle JavaScript.
+- Learn how to use proper ES6 syntax.
+- Use ES6 modules to write modular JavaScript.
 
 ### Estimated time: 4h
 
