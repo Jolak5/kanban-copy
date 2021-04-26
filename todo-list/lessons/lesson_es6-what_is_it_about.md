@@ -1,7 +1,8 @@
 # ES6 what is it about?
 
 ## Learning objectives
-- Learn new ES6 syntax.
+
+- Learn how to use proper ES6 syntax.
 - Understand improvements that ES6 brings to JavaScript.
 
 ### Estimated time: 2h
