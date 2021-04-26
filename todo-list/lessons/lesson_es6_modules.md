@@ -1,7 +1,8 @@
 # ES6 Modules
 
 ## Learning objectives
-- Use ES6 modules.
+
+- Use ES6 modules to write modular JavaScript.
 - Understand the benefits of modular architecture in JavaScript applications.
 
 ### Estimated time: 1h
