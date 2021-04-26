@@ -1,7 +1,8 @@
 # Webpack
 
 ## Learning objectives
-- Learn about webpack's features and how it can be used in JavaScript applications.
+
+- Use webpack to bundle JavaScript.
 
 ### Estimated time: 1h
 
