@@ -14,7 +14,7 @@ In this project, you will implement the CRUD (create, update, delete) methods. A
 
 ### General requirements
 - Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct flow ([Github Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
+- Make sure that you used correct ([GitHub Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
 - Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
 
 ### HTML/CSS requirements
@@ -24,20 +24,19 @@ In this project, you will implement the CRUD (create, update, delete) methods. A
   - Follow our list of [best practices for JavaScript](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md).
 
 ### Project requirements
-- Remove all hardcoded items from the tasks array
-- Create a new JavaScript file for the new functionality
-- Implement a function for adding a new task (add a new element to the array)
-- Implement a function for editing tasks description
-- Implement a function for deleting a task (remove an element from the array)
-- Implement a function for the "Clear all completed" button (use `filter()` method)
-- New tasks by default should have the property `completed` set to `false` and the property `index` set to the value of the new array length (i.e. if you're adding a 5th task to the list, the index of that task should equal to 5)
-- Deleting a task should update all remaining items' indexes, so they represent the current list order and are unique
-- All changes to the To Do List should be saved in the local storage
+- Remove all hardcoded items from the tasks array.
+- Create a new JavaScript file for the new functionality.
+- Implement a function for adding a new task (add a new element to the array).
+- Implement a function for editing task descriptions.
+- Implement a function for deleting a task (remove an element from the array).
+- Implement a function for the "Clear all completed" button (use `filter()` method).
+- By default new tasks should have the property `completed` set to `false` and the property `index` set to the value of the new array length (i.e. if you're adding a 5th task to the list, the index of that task should equal to 5).
+- Deleting a task should update all remaining items' indexes, so they represent the current list order and are unique.
+- All changes to the To Do List should be saved in local storage.
 
 ### Need a big picture? 
 
 Remind me about [the big picture of this project](./sneak_peek.md).
-
 
 ## Code review
 
@@ -48,4 +47,3 @@ Follow [these steps](https://github.com/microverseinc/curriculum-transversal-ski
 After the final approval from a code reviewer, you need to submit your project.
 [Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
 Now go to your Student Dashboard and submit your project.
-<Add any additional instructions you may need or leave blank> 
