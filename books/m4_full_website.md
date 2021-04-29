@@ -41,7 +41,7 @@ In this project, you will take the *Awesome books* application and convert it in
 
 - Use this wireframe as a guide:
 <p align="center">
-  <img src="./images/awesome_books_full_website.png" alt="Basic UI"  width="500px"/>
+  <img src="./images/awesome_books_full_website.png" alt="Basic UI"  width="900px"/>
 </p>
 
 - Make sure that when you click on any of the links, the main area changes to display only one of the three content sections. (Hint: you can simply add and remove CSS classes to display or hide the content.)
