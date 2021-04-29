@@ -16,7 +16,7 @@ In this activity, you will set up a JavaScript project for the Leaderboard list 
 ### General requirements
 
 - Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct flow [Github Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
+- Make sure that you used correct flow [GitFlow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
 - Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
 
 ### JavaScript requirements
@@ -24,13 +24,12 @@ In this activity, you will set up a JavaScript project for the Leaderboard list 
   - Follow our list of [best practices for JavaScript](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md).
 ### Project requirements
 
-- Create an **npm project with webpack**. If you need some guidance, follow [this guide](https://webpack.js.org/guides/getting-started/#basic-setup).
-- Develop a basic web application, use this wireframe as a guide:
+- Create an **npm project with webpack**. (if you need a refresher, check the previous project or webpack exercise).
+- Write plain HTML markup, with minimum styling (only to make the layout) as you will implement styles in the following steps. Use this wireframe as a guide:
 <p align="center">
   <img src="./images/leaderboard_wireframe.png" alt="Basic UI"  width="500px"/>
 </p>
 
-- Add just the basic styling for the layout.
 - Don't make API calls (you'll do it in a following lesson)
 - Use ES6 modules, with *import* and *export*.
 
