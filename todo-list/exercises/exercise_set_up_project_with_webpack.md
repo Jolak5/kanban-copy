@@ -1,7 +1,7 @@
 # Set up project with webpack
 
 ## Learning objectives
-- Use webpack boilerplate to set up a webpage quickly.
+- Use webpack to bundle JavaScript.
 
 ### Estimated time: 1.5h
 
