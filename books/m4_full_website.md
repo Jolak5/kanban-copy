@@ -46,7 +46,7 @@ In this project, you will take the *Awesome books* application and convert it in
 
 - Make sure that when you click on any of the links, the main area changes to display only one of the three content sections. (Hint: you can simply add and remove CSS classes to display or hide the content.)
 - To change the contents of the page, don't use any library or framework, use only plain JavaScript and CSS.
-- Display the current date below the navigation bar. For this requirement you can use a library like [Luxon](https://moment.github.io/luxon/docs/manual/install.html).
+- Display the current date below the navigation bar. For this requirement you should use a library - [Luxon](https://moment.github.io/luxon/docs/manual/install.html).
   - See the article [Get the current date and time](https://moment.github.io/luxon/docs/manual/tour.html#get-the-current-date-and-time).
 
 ### Need a big picture?
