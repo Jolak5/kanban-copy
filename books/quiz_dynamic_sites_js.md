@@ -8,6 +8,7 @@
 - Understand stacks.
 - Understand queues.
 - Solve coding challenge based on stacks.
+
 ### Estimated time: 0.5h
 
 ## Description
@@ -16,4 +17,4 @@ In this activity, you will test your knowledge about JavaScript objects and arra
 
 ## The quiz
 
-[Quiz: Dynamic websites with JS](https://docs.google.com/forms/d/1AkV4QO15evZGWLNaKds_NGrkby087PSkSFfoW92ljZM/edit?usp=sharing)
+[Quiz: Dynamic websites with JS](https://docs.google.com/forms/d/1yGNyjiZZODVF0lLXvHyaT4_ikB9RmDH11gKvXkntnT4)
