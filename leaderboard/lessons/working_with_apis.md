@@ -6,7 +6,7 @@
 - Use API documentation.
 - Identify if an API is RESTful or not.
 
-### Estimated time: 1h
+### Estimated time: 1.5h
 
 ## Description
 
