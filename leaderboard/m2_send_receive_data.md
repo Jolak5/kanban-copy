@@ -6,7 +6,7 @@
 - Understand and use JSON.
 - Make JavaScript code asynchronous.
 
-### Estimated time: 3h
+### Estimated time: 2.5h
 
 ## Description
 
