@@ -28,4 +28,4 @@ You will be building the leaderboard website during the whole week. Here is the 
 
 - Project 1: basic page structure.
 - Project 2: send and receive data from API.
-- Project 3: async & await + final touches.
+- Project 3: final touches.
