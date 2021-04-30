@@ -21,7 +21,9 @@
 
 ## Description
 
-The JavaScript capstone project is about building your own web application based on an external API. You will select an API that provides data about a topic that you like and then build the webapp around it. The webapp will have 2 or 3 pages (depending on the size of your team), a) the home page showing a list of items that you can "like" and b) a popup window with more data about an item that you can use to comment on it or reserve it for a period of time.
+The JavaScript capstone project ([remember what are they?](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/capstone_intro.md)) is about building your own web application based on an external API. You will select an API that provides data about a topic that you like and then build the webapp around it. The webapp will have 2 or 3 user interfaces (depending on the size of your team):
+- a home page showing a list of items that you can "like"
+- a popup window with more data about an item that you can use to comment on it or reserve it for a period of time
 
 <p align="center">
   <img src="./images/Home.png" alt="Home page" />
@@ -65,8 +67,8 @@ The JavaScript capstone project is about building your own web application based
   You can find more APIs in [this GitHub repo](https://github.com/public-apis/public-apis) or in [ProgrammableWeb](https://www.programmableweb.com/category/all/apis). Some of the APIs requires a token, authentication and some others are just open.
 - You will use our [Involvement API](https://www.notion.so/microverse/Involvement-API-869e60b5ad104603aa6db59e08150270) to record the different user interactions (likes, comments and reservations)
 
-**Pages**
-- You should build these pages:
+**Interfaces**
+- You should build these interfaces:
   - the *home page*
   - the *comments popup*
   - the *reservations popup* (only for the groups of 3 students)
@@ -76,30 +78,28 @@ The JavaScript capstone project is about building your own web application based
     - the selected API and shows the list of items on screen
     - the Involvement API to show the item likes
   - When the user clicks on the Like button of an item, the interaction is recorded in the Involvement API and the screen is updated
-- Comments popup
-  - When the page loads, the webapp retrieves data from
-    - the selected API and shows details about the selected item
-    - the Involvement API to show the item comments
-  - When the user clicks on the "Comment" button, the data is recorded in the Involvement API and the screen is updated
-- Reservations popup (only for the groups of 3 students)
-  - When the page loads, the webapp retrieves data from
-    - the selected API and shows details about the selected item
-    - the Involvement API to show the item reservations
-  - When the user clicks on the "Reserve" button, the data is recorded in the Involvement API and the screen is updated
-- Other shared work on the home page
   - When the user clicks on the "Comments" button, the Comments popup appears
   - When the user clicks on the "Reservations" button, the Reservations popup appears (only for the groups of 3 students)
   - Home page header and navigation similar to the given mockup
   - Home page footer similar to the given mockup
+- Comments popup
+  - When the popup loads, the webapp retrieves data from
+    - the selected API and shows details about the selected item
+    - the Involvement API to show the item comments
+  - When the user clicks on the "Comment" button, the data is recorded in the Involvement API and the screen is updated
+- Reservations popup (only for the groups of 3 students)
+  - When the popup loads, the webapp retrieves data from
+    - the selected API and shows details about the selected item
+    - the Involvement API to show the item reservations
+  - When the user clicks on the "Reserve" button, the data is recorded in the Involvement API and the screen is updated
 
 **Counters**
-We have counters in all the pages that show
+We have counters in all the interfaces that show
 - the number of items (home)
 - the number of comments (comments popup)
 - the number of reservations (reservations popup) - only for the groups of 3 students
 
 Even if the API gives you these number, you will create a specific function to calculate this numbers in each page. These count functions need to be covered with unit tests using Jest.
-
 
 **Technical set up**
 - Set up the repository on GitHub and use gitflow
@@ -123,7 +123,7 @@ In order to tackle this challenge, we created [a list of tasks](TBD) so you can 
 - The common tasks (set up repo, find the API, shared work on the home page) will be divided among all of you or worked as a team (pair programming)
 - The tasks related to a specific page will be developed individually, every student owning the development of one page
 
-Here is a suggestion of what you can do every day:
+Here is a suggestion of what you can do every day (just a suggestion, not mandatory):
 
 ### Day 1
 
@@ -131,22 +131,18 @@ Here is a suggestion of what you can do every day:
 - Choose the topic for your website and the API.
 - Choose images, text, icons, fonts.
 - Create the basic shared code on the home page.
-- Start individual pages.
+- Start individual interfaces.
 
 ### Day 2
 
-- Work on individual pages.
+- Work on individual interfaces.
 
 ### Day 3
 
-- Complete the work on individual pages.
+- Complete the work on individual interfaces.
 - Deploy the project, and test for final details.
 - Record a video for your project.
 - Create a good README and PR description.
-
-### Need a big picture?
-
-Remind me about [what it is a capstone project](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/capstone_intro.md).
 
 ## Code review
 
