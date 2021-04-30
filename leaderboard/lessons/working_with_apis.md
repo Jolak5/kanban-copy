@@ -26,6 +26,10 @@ To learn more about APIs and REST, read this articles:
 - [What is REST](https://restfulapi.net/), introduction to REST APIs.
 - [API 101: What Is a REST API?](https://blog.postman.com/rest-api-definition/) to understand the concept of resources.
 
+### How to consume an API
+
+There are several ways to *consume* an API, read [this aticle](../articles/how_to_consume_api.md) to learn some of them.
+
 ## Additional materials
 
 **These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
