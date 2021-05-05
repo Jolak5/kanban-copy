@@ -6,7 +6,7 @@
 ### Estimated time: 3h
 
 ## Description
-In this project, you will write unit tests for the To Do List application. Testing has been divided into to two parts. In part 1 you will test functions responsible for adding and deliting items to the list. In part 2 you will test the status and content updates as well as the order re-position of items in the list.
+In this project, you will write unit tests for the To Do List application. The testing project has been divided into two parts. In part 1 you will test functions responsible for adding and deleting items to the list. In part 2 you will test the status and content updates as well as the order re-position of items in the list.
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
@@ -21,7 +21,7 @@ In this project, you will write unit tests for the To Do List application. Testi
 ### Project requirements
 
 #### Setup
-Before you start writing tests we need to configure our project so that Jest can read ES6 modules. By default Jest uses CommonJS notation so we need to *transform* all modules into CommonJS notation. For that, we will use [**Babel** compiler](https://babeljs.io/).
+Before you start writing tests you need to configure your project so that Jest can read ES6 modules. By default Jest uses CommonJS notation so we need to *transform* all modules into CommonJS notation. For that, we will use [**Babel** compiler](https://babeljs.io/).
 
 Open a terminal in your project directory and execute:
 
@@ -43,7 +43,7 @@ That's it! Now you can use `import` instead of `require` and write tests for all
 - This is a pair-programming project. Please decide whose project will you use for testing.
 - Create a test file (`[..].test.js`) for a file containing your **add item** and **delete item**  functions you want to test.
 - Take a look at each of these functions. Are they *pure functions*? If the answer is "yes" - writing tests for them should be straightforward. Some of those functions however will update *localStorage* and manipulate *DOM*. For those, you will need to use mocks.
-  - mock a storage object to *imitate* localStorage operations
+  - mock a storage object to "imitate" localStorage operations
   - mock HTML to test if add/delete functions add or remove exactly one `<li>` element from the list in the DOM 
 - Make sure you group your tests using the `description()` method.
 - Add a `--coverage` flag to your test script in *package.json*. That way you will see the percentage coverage of your application code every time you run a test:
