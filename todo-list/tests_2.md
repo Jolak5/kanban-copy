@@ -24,6 +24,7 @@ In this part of the testing project, you will test functions responsible for the
     - a function for editing task description
     - a function for updating an item's 'completed' status
     - a function for updating an item's index value upon drag/drop actions
+    - the "Clear all completed" function
 - Use the storage object you have already created to mock the *localStorage* updates
 - Mock the HTML elements to test DOM manipulation functions
 - Make sure you group your tests using the `description()` method
