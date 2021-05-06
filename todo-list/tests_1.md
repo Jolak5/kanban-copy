@@ -20,32 +20,15 @@ In this project, you will write unit tests for the To Do List application. The t
 
 ### Project requirements
 
-#### Setup
-Before you start writing tests you need to configure your project so that Jest can read ES6 modules. By default Jest uses CommonJS notation so we need to *transform* all modules into CommonJS notation. For that, we will use [**Babel** compiler](https://babeljs.io/).
-
-Open a terminal in your project directory and execute:
-
-```npm install --save-dev @babel/plugin-transform-modules-commonjs```
-
-Then create a new file called: `.babelrc` and paste:
-```javascript
-{
-  "env": {
-    "test": {
-      "plugins": ["@babel/plugin-transform-modules-commonjs"]
-    }
-  }
-}
-```
-That's it! Now you can use `import` instead of `require` and write tests for all your ES6 modules.
-
-#### Requirements
 - This is a pair-programming project. Please decide whose project will you use for testing.
 - Create a test file (`[..].test.js`) for a file containing your **add item** and **delete item**  functions you want to test.
-- Take a look at each of these functions. Are they *pure functions*? If the answer is "yes" - writing tests for them should be straightforward. Some of those functions however will update *localStorage* and manipulate *DOM*. For those, you will need to use mocks.
-  - mock a storage object to "imitate" localStorage operations
-  - mock HTML to test if add/delete functions add or remove exactly one `<li>` element from the list in the DOM 
+- Take a look at each of these functions. Are they *pure functions*? If the answer is "yes" - writing tests for them should be straightforward. Some of those functions however will update *localStorage* and manipulate *DOM*. For those, you will need to use mocks:
+  - Mock a storage object to "imitate" localStorage operations
+  - Mock HTML to test if add/delete functions add or remove exactly one `<li>` element to/from the list in the DOM 
 - Make sure you group your tests using the `description()` method.
+
+### Optional requirement
+
 - Add a `--coverage` flag to your test script in *package.json*. That way you will see the percentage coverage of your application code every time you run a test:
 ```javascript
     ...
@@ -55,7 +38,7 @@ That's it! Now you can use `import` instead of `require` and write tests for all
     }
     
 ```
-
+When writing tests the closer you get to 100% coverage the better.
 
 ### Need a big picture? 
 
