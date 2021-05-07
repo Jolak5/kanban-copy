@@ -11,10 +11,11 @@
 
 ### Estimated time: 0.5h
 
-## Description
+## Instructions
 
-In this activity, you will test your knowledge about JavaScript objects and arrays, classes, DOM manipulation, and dynamic websites, including Single Page Applications.
+Please complete this quiz to assess your understanding of the topics covered in this block, including both technical and professional skills.
 
-## The quiz
+You need to get a minimum of 70% of correct answers to pass the quiz. After you submit the quiz, you can check your score in the Student Dashboard. If you fail, you can repeat the quiz from your Student Dashboard. You have 3 attempts to pass the quiz, otherwise this activity will be considered not successful, and you will need to repeat the block.
 
-[Quiz: Dynamic websites with JS](https://docs.google.com/forms/d/1yGNyjiZZODVF0lLXvHyaT4_ikB9RmDH11gKvXkntnT4)
+To proceed with the quiz use the "Checkpoint Quiz" action in your Students Dashboard.
+
