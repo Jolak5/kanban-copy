@@ -1,12 +1,12 @@
 # Testing To Do list: part 1
 
 ## Learning objectives
-- Write units tests for a JavaScript app
+- Write unit tests for a JavaScript app.
 
 ### Estimated time: 3h
 
 ## Description
-In this project, you will write unit tests for the To Do List application. The testing project has been divided into two parts. In part 1 you will test functions responsible for adding and deleting items to the list. In part 2 you will test the status and content updates as well as the order re-position of items in the list.
+In this project you will write unit tests for the To Do list application. The testing project has been divided into two parts. In part 1 you will test functions responsible for adding and deleting list items. In part 2 you will test the status and content updates as well as the order re-position of items in the list.
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
@@ -21,10 +21,10 @@ In this project, you will write unit tests for the To Do List application. The t
 ### Project requirements
 
 - This is a pair-programming project. Please decide whose project will you use for testing.
-- Create a test file (`[..].test.js`) for a file containing your **add item** and **delete item**  functions you want to test.
-- Take a look at each of these functions. Are they *pure functions*? If the answer is "yes" - writing tests for them should be straightforward. Some of those functions however will update *localStorage* and manipulate *DOM*. For those, you will need to use mocks:
-  - Mock a storage object to "imitate" localStorage operations
-  - Mock HTML to test if add/delete functions add or remove exactly one `<li>` element to/from the list in the DOM 
+- Create a test file (`[..].test.js`) for a file containing the **add item** and **delete item**  functions that you want to test.
+- Take a look at each of these functions. Are they *pure functions*? If the answer is "yes" then writing tests for them should be straightforward. Some of those functions however will update *localStorage* and manipulate *DOM*. For those, you will need to use mocks:
+  - Mock a storage object to "imitate" localStorage operations.
+  - Mock HTML to test if add/delete functions add or remove exactly one `<li>` element to/from the list in the DOM.
 - Make sure you group your tests using the `description()` method.
 
 ### Optional requirement
