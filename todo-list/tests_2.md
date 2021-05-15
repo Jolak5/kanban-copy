@@ -1,7 +1,7 @@
 # Testing To Do list: part 2
 
 ## Learning objectives
-- Write units tests for a JavaScript app.
+- Write unit tests for a JavaScript app.
 
 ### Estimated time: 3h
 
