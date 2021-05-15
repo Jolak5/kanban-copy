@@ -9,7 +9,7 @@
 
 ## Description
 
-In this lesson you will learn what is and how to use the JSON format to exchange data over the internet.
+In this lesson you will learn what JSON is and how to use the JSON format to exchange data over the internet.
 
 ### Why is JSON important?
 
@@ -17,11 +17,11 @@ JSON (JavaScript Object Notation) is a standardized format used to send and rece
 
 ### Working with JSON
 
-JSON is not JavaScript, it only uses JavaScript Object notation (syntax), it seems like a JavaScript object but is plain text. Because of that, you have to convert from plain text to JavaScript, using the `JSON.parse()` method, and from objects to text, using the `JSON.stringify()` method. To learn more about JSON, read the following guide from MDN:
+JSON is not JavaScript. While it seems like a JavaScript object, it is plain text that merely uses JavaScript Object notation (syntax). Because of that, you have to convert JSON from plain text to JavaScript using the `JSON.parse()` method, and from objects to text using the `JSON.stringify()` method. To learn more about JSON, read the following guide from MDN:
 
 - [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
-## Additional materials [optional header]
+## Additional materials
 **These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
 
 You can practice [JSON.parse()](https://www.w3schools.com/js/js_json_parse.asp) and [JSON.stringify()](https://www.w3schools.com/js/js_json_stringify.asp) in W3Schools.
