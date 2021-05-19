@@ -1,12 +1,12 @@
 # To Do list: secure deploy
 
 ## Learning objectives
-- Deploy a secure website using OpenSSL
+- Deploy a secure website using OpenSSL.
 
 ### Estimated time: 1h
 
 ## Exercise
-Now that your To Do List application is ready, you can deploy it to the public. In this exercise, you will deploy your code via Github Pages. You will need to make sure that your web application uses HTTPS (not HTTP) protocol. SSL (Secure Sockets Layer) and HTTPS guarantee that all data sent between a browser and a server are being encrypted, which adds a great layer of security for your users and their private and sensitive information.
+Now that your To Do list application is ready, you can deploy it to the public. In this exercise, you will deploy your code via GitHub Pages. You will need to make sure that your web application uses HTTPS (not HTTP) protocol. SSL (Secure Sockets Layer) and HTTPS guarantee that all data sent between a browser and a server are being encrypted, which adds a great layer of security for your users and their private and sensitive information.
 
 *IMPORTANT NOTE: Read **all** instructions before you start this exercise.*
 
@@ -14,10 +14,10 @@ Now that your To Do List application is ready, you can deploy it to the public. 
 
 - Commit and push all your work into the project's GitHub repository.
 - If you worked with branches, make sure you merge all your work into the main branch.
-- Deploy your website using GitHub Pages (you are already familiar with this process) but this time pay attention to the extra step that will **ensure that your app uses HTTPS protocol**:
+- Deploy your website using GitHub Pages (you are already familiar with this process), but this time pay attention to the extra step that will **ensure that your app uses HTTPS protocol**:
      - Scroll to the bottom of the **Pages** page and make sure the *"Enforce HTTPS"*  checkbox is selected.
 - Confirm the deployment. Your application will be live in few minutes. On the top of the **Pages** page you will find your project's URL.
-- Make sure taht your app URL uses SSL.
+- Make sure that your app URL uses SSL.
 - Update the README of your repository to include a link to the online version.
 
 ### Submit your exercise
@@ -27,5 +27,5 @@ Now go to your Student Dashboard and submit your exercise.
 
 ## Additional materials
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-- Read about [why it's important to use SSL certificate](https://www.cloudflare.com/learning/ssl/why-use-https/)
-- Read about potential [problems with mixed content](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https) and how to solve them
+- Read about [why it's important to use SSL certificates](https://www.cloudflare.com/learning/ssl/why-use-https/).
+- Read about potential [problems with mixed content](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https) and how to solve them.
