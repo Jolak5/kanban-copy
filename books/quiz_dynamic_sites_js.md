@@ -1,4 +1,4 @@
-# QUIZ Review this week - "Dynamic websites with JavaScript"
+# Quiz - Review this week - "Dynamic websites with JavaScript"
 
 ## Learning objectives
 
