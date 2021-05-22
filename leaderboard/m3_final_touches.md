@@ -15,22 +15,23 @@ In this activity you will finalize the *Leaderboard list* app, adding the styles
 ### General requirements
 
 - Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct flow [GitFlow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
+- Make sure that you used correct flow [Gitflow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
 - Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
 
 ### HTML/CSS requirements
 
-- Follow our list of the [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
+- Follow our list of [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
 
 ### Project requirements
 
-- At this point, you should have a fully working app, but with just basic styles to make the layout work, according to this wireframe:
+- At this point you should have a fully working app that uses only basic styles to make the layout work, according to this wireframe:
+
 <p align="center">
   <img src="./images/leaderboard_wireframe.png" alt="Basic UI"  width="500px"/>
 </p>
 
-- Now you should improve the *look and feel* of the application, adding the styles of your election.
-- Please, keep the general layout of the wireframe, this is the only mandatory requirement.
+- Now you should improve the *look and feel* of the application, adding the styles of your choice.
+- Please keep the general layout of the wireframe, this is the only mandatory requirement.
 - You can use plain CSS or any CSS framework, it's up to you.
 
 ### Need a big picture? 
