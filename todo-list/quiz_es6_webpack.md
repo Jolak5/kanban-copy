@@ -1,11 +1,10 @@
-# Quiz - Review this week - ES6 & webpack
+# Quiz - Review this week - ES6 and webpack
 
 ## Learning objectives
-- Use ES6 syntax
-- Use ES6 modules
-- Use callbacks and promises
-- Use webpack
-
+- Use ES6 syntax.
+- Use ES6 modules.
+- Use callbacks and promises.
+- Use webpack.
 
 ### Estimated time: 0.5h
 
