@@ -1,4 +1,4 @@
-# QUIZ - Review this week - "APIs and Algorithms Efficiency"
+# Quiz: APIs and Algorithms Efficiency
 
 ## Learning objectives
 

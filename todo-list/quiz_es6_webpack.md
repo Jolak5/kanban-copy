@@ -1,4 +1,4 @@
-# Quiz - Review this week - ES6 and webpack
+# Quiz: ES6 and webpack
 
 ## Learning objectives
 - Use ES6 syntax.
