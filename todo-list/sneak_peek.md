@@ -17,7 +17,7 @@ You will build a very simple yet powerful to-do list. It will be inspired by the
 
 Your task is to build a website that displays a list that looks and behaves like the part of minimalist project capture in the video below.
 
-[![Capstone intro](https://img.youtube.com/vi/AcUd-_Yjjqg/0.jpg)](https://www.youtube.com/watch?v=AcUd-_Yjjqg)
+[![Minimalist example](https://img.youtube.com/vi/AcUd-_Yjjqg/0.jpg)](https://www.youtube.com/watch?v=AcUd-_Yjjqg)
 
 You will need to implement the following functionalities (presented in the video above):
 - Adding a new item.
