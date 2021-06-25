@@ -146,7 +146,9 @@ Here is a suggestion of what you can do every day (just a suggestion, not mandat
 
 ## Code review
 
-You will get a code review when you build the complete project, not after each milestone. You you have it ready, follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
+You will give and receive code reviewes from your teammates. Each task should have a separate pull request that is reviewed by one of your teammates.
+Once the entire project is ready, one of your team members will request a code review on behalf of your group.
+For both proccesses follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/code_review_flow_group_projects.md) 
 
 ## Submit your project
 
