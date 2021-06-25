@@ -1,0 +1,42 @@
+## How to?
+
+
+# Group capstone: set up your Kanban board
+
+## Learning objectives
+- Use Kanban board with filled-in tasks that have categories and time estimations to assign work in group.
+
+### Estimated time: 0.5h
+
+## Description
+
+In this activity, your team will prepare a Kanban board with a GitHub project. As this is the very first group project in your Microverse journey, we prepared a very detailed template (in the upcoming group projects, you will have more freedom regarding that) that you just need to copy.
+In order to copy the Kanban board quickly, you will use a special script prepared for you. 
+
+
+### Project requirements
+
+- Join a Zoom call with your team.
+- Create an empty repository for your group project.
+- Follow the steps described in the [curriculum-tools-copy-projects](https://github.com/microverseinc/curriculum-tools-copy-projects).
+- Open the GitHub project (Kanban board) in your team repo.
+- Make sure that in the card titles, you can see: `Student A`, `Student B`, or `Student C`.
+- _If your group includes two people - remove all cards with `Student C` in the title._
+- Decide who in your team is the `Student A`, `Student B`, or `Student C`.
+- Each of the team members should assign themselves to correct cards.
+- [Open a new issue in your repository](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue). In its description, paste a link to your GitHub project.
+- Use the issue link to ask for a review. Code Reviewer will leave you feedback in the issue's comment.
+    - As it is the first time with the GitHub project and kanban board, we need to double-check your setup. Thanks to that, you will avoid issues while working on your project.
+
+
+## Code review
+
+Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
+**Special case: instead of a pull request, you need to use an issue to communicate with your reviewer.
+
+## Submit your project
+
+After the final approval from a code reviewer, you need to submit your project.
+[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
+Now go to your Student Dashboard and submit your project.
+
