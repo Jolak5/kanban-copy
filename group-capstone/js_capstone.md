@@ -64,7 +64,7 @@ The JavaScript capstone project ([remember what are they?](https://github.com/mi
   - [TVmaze API](https://www.tvmaze.com/api): data about TV series and movies
   - [Meals DB](https://www.themealdb.com/api.php): data about meals
 
-  You can find more APIs in [this GitHub repo](https://github.com/public-apis/public-apis) or in [ProgrammableWeb](https://www.programmableweb.com/category/all/apis). Some of the APIs requires a token, authentication and some others are just open.
+You can find more APIs in [this GitHub repo](https://github.com/public-apis/public-apis) or in [ProgrammableWeb](https://www.programmableweb.com/category/all/apis). Some of the APIs requires a token, authentication and some others are just open.
 - You will use our [Involvement API](https://www.notion.so/microverse/Involvement-API-869e60b5ad104603aa6db59e08150270) to record the different user interactions (likes, comments and reservations)
 
 **Interfaces**
@@ -72,11 +72,14 @@ The JavaScript capstone project ([remember what are they?](https://github.com/mi
   - the *home page*
   - the *comments popup*
   - the *reservations popup* (only for the groups of 3 students)
-- You should follow the design guidelines of the mockups provided above only in terms of the data displayed on the page. You should personalize the rest of the design including colors, typographies, spacings, etc.
+- You should follow the layout of the wireframes provided. You should personalize the rest of the design including colors, typographies, spacings, etc.
 - Home page
   - When the page loads, the webapp retrieves data from 
     - the selected API and shows the list of items on screen
     - the Involvement API to show the item likes
+  - Remember that your page should make only 2 requests:
+    - one to the base API
+    - and **one** to the Involvement API
   - When the user clicks on the Like button of an item, the interaction is recorded in the Involvement API and the screen is updated
   - When the user clicks on the "Comments" button, the Comments popup appears
   - When the user clicks on the "Reservations" button, the Reservations popup appears (only for the groups of 3 students)
@@ -102,7 +105,7 @@ We have counters in all the interfaces that show
 Even if the API gives you these number, you will create a specific function to calculate this numbers in each page. These count functions need to be covered with unit tests using Jest.
 
 **Technical set up**
-- Set up the repository on GitHub and use gitflow
+- Set up the repository on GitHub and use Gitflow
 - Set up webpack
 - Set up a JavaScript testing library (Jest)
 
@@ -132,9 +135,10 @@ Below you can see a suggestion of what you can do every day (just a suggestion, 
 
 
 ### Day 0
-- Set up the repository and tools.
 - Choose the topic for your website and the API.
 - Choose images, text, icons, fonts.
+- Set up the repository and tools.
+
 
 
 ### Day 1
