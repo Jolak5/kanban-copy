@@ -18,6 +18,7 @@ In order to copy the Kanban board quickly, you will use a special script prepare
 - Follow the steps described in the [curriculum-tools-copy-projects](https://github.com/microverseinc/curriculum-tools-copy-projects).
 - Open the GitHub project (Kanban board) in your team repo.
 - Make sure that in the card titles, you can see: `Student A`, `Student B`, or `Student C`.
+- Make sure that each card starts with `[Xpt]` - that number indicates the number of `points` that shows how complext the task is. **1 point = 1 hour of work**.
 - _If your group includes two people - remove all cards with `Student C` in the title._
 - Decide who in your team is the `Student A`, `Student B`, or `Student C`.
 - Each of the team members should assign themselves to correct cards.
