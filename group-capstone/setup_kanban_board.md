@@ -8,24 +8,22 @@
 ## Description
 
 In this activity, your team will prepare a Kanban board with a GitHub project. As this is the very first group project in your Microverse journey, we prepared a very detailed template (in the upcoming group projects, you will have more freedom regarding that) that you just need to copy.
-In order to copy the Kanban board quickly, you will use a special script prepared for you. 
-
+In order to copy the Kanban board quickly, you will use a special script prepared for you.
 
 ### Project requirements
 
-- Join a Zoom call with your team. Only o ne person needs to copy the board on behalf of entire team but everybody should help during the call.
+- Join a Zoom call with your team. Only one person needs to copy the board on behalf of the entire team but everybody should help during the call.
 - Create an empty repository for your group project.
-- Follow the steps described in the [curriculum-tools-copy-projects](https://github.com/microverseinc/curriculum-tools-copy-projects).
+- Follow the steps described in [curriculum-tools-copy-projects](https://github.com/microverseinc/curriculum-tools-copy-projects).
 - Open the GitHub project (Kanban board) in your team repo.
-- Make sure that in the card titles, you can see: `Student A`, `Student B`, or `Student C`.
-- Make sure that each card starts with `[Xpt]` - that number indicates the number of `points` that shows how complext the task is. **1 point = 1 hour of work**.
+- Make sure that in the card titles you can see: `Student A`, `Student B`, or `Student C`.
+- Make sure that each card starts with `[Xpt]` - that number indicates the number of `points` that shows how complex the task is. **1 point = 1 hour of work**.
 - _If your group includes two people - remove all cards with `Student C` in the title._
 - Decide who in your team is the `Student A`, `Student B`, or `Student C`.
-- Each of the team members should assign themselves to correct cards.
+- Each of the team members should assign themselves to the correct cards.
 - [Open a new issue in your repository](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue). In its description, paste a link to your GitHub project.
-- Use the issue link to ask for a review. Code Reviewer will leave you feedback in the issue's comment.
-    - As it is the first time with the GitHub project and kanban board, we need to double-check your setup. Thanks to that, you will avoid issues while working on your project.
-
+- Use the issue link to ask for a review. A Code Reviewer will leave you feedback in the issue's comment.
+    - As it is your first time using a GitHub project and Kanban board, we need to double-check your setup to avoid issues while working on your project.
 
 ## Code review
 
