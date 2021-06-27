@@ -1,6 +1,3 @@
-## How to?
-
-
 # Group capstone: set up your Kanban board
 
 ## Learning objectives
@@ -16,7 +13,7 @@ In order to copy the Kanban board quickly, you will use a special script prepare
 
 ### Project requirements
 
-- Join a Zoom call with your team.
+- Join a Zoom call with your team. Only o ne person needs to copy the board on behalf of entire team but everybody should help during the call.
 - Create an empty repository for your group project.
 - Follow the steps described in the [curriculum-tools-copy-projects](https://github.com/microverseinc/curriculum-tools-copy-projects).
 - Open the GitHub project (Kanban board) in your team repo.
