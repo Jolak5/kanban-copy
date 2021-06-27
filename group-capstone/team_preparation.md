@@ -43,7 +43,7 @@ For your group projects, you will be performing code reviews for your team membe
 
 _All links above are for lessons that you have already completed._
 
-** Code review flow for Microverse group projects **
+### Code review flow for Microverse group projects
 
 For group projects, you will get code reviews from your teammates and from external Code Reviewers; make sure that you understand the flow described in [this article](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/code_review_flow_group_projects.md).
 
