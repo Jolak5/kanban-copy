@@ -119,7 +119,7 @@ For recording the video you can use the Zoom recording features while in a call 
 
 ### Workload distribution
 
-In order to tackle this challenge, we created a template of the Kanban board with GitHub project that translates the requirements into a set of tasks. Thanks to that you will be able to organize your work. You will create your own copy of that board in the separate activity. 
+In order to tackle this challenge, we created [a template of the Kanban board with GitHub project](https://github.com/microverseinc/curriculum-javascript/projects/1) that translates the requirements into a set of tasks. Thanks to that you will be able to organize your work. You will create your own copy of that board in the separate activity. 
 
 
 You will be working in this way:
