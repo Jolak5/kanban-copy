@@ -119,30 +119,41 @@ For recording the video you can use the Zoom recording features while in a call 
 
 ### Workload distribution
 
-In order to tackle this challenge, we created [a list of tasks](TBD) so you can organize the work. You will be working in this way:
-- The common tasks (set up repo, find the API, shared work on the home page) will be divided among all of you or worked as a team (pair programming)
-- The tasks related to a specific page will be developed individually, every student owning the development of one page
+In order to tackle this challenge, we created a template of the Kanban board with GitHub project that translates the requirements into a set of tasks. Thanks to that you will be able to organize your work. You will create your own copy of that board in the separate activity. 
 
-Here is a suggestion of what you can do every day (just a suggestion, not mandatory):
 
-### Day 1
+You will be working in this way:
+- The common tasks (set up repo, find the API, shared work on the home page) will be divided among all of you or worked as a team (pair programming).
+- The tasks related to a specific page will be developed individually, every student owning the development of one page.
+- All tasks should be based on the cards from your Kanban board.
 
+Below you can see a suggestion of what you can do every day (just a suggestion, not mandatory). 
+
+
+
+### Day 0
 - Set up the repository and tools.
 - Choose the topic for your website and the API.
 - Choose images, text, icons, fonts.
+
+
+### Day 1
+
 - Create the basic shared code on the home page.
 - Start individual interfaces.
+- Give code reviews to your teammates.
 
 ### Day 2
 
 - Work on individual interfaces.
+- Give code reviews to your teammates.
 
 ### Day 3
 
 - Complete the work on individual interfaces.
-- Deploy the project, and test for final details.
 - Record a video for your project.
 - Create a good README and PR description.
+- Ask for the external review - using your Dashboard.
 
 ## Code review
 
@@ -166,3 +177,5 @@ Now go to your Student Dashboard and submit your project.
 - You could implement some UX improvements: include transitions and/or animations, etc.
 - You can implement additional home pages, one page per category of items.
 - Make sure that you have a decent mobile design for the webapp.
+
+**Remember to add cards to your kanabam board if you decide to implement additional tasks.**
