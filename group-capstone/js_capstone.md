@@ -183,3 +183,8 @@ Now go to your Student Dashboard and submit your project.
 - Make sure that you have a decent mobile design for the webapp.
 
 **Remember to add cards to your kanabam board if you decide to implement additional tasks.**
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
