@@ -29,3 +29,7 @@ Now go to your Student Dashboard and submit your exercise.
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 - Read about [why it's important to use SSL certificates](https://www.cloudflare.com/learning/ssl/why-use-https/).
 - Read about potential [problems with mixed content](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https) and how to solve them.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

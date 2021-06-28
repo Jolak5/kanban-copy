@@ -25,3 +25,7 @@ JSON is not JavaScript. While it seems like a JavaScript object, it is plain tex
 **These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
 
 You can practice [JSON.parse()](https://www.w3schools.com/js/js_json_parse.asp) and [JSON.stringify()](https://www.w3schools.com/js/js_json_stringify.asp) in W3Schools.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -29,3 +29,7 @@ You will be building the leaderboard website during the whole week. Here is the 
 - Project 1: basic page structure.
 - Project 2: send and receive data from API.
 - Project 3: final touches.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

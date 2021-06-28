@@ -33,3 +33,7 @@ You will be building a "To-do list" website during the whole week. Here is the l
 - Project 1: List structure.
 - Project 2: Interactive list.
 - Project 3: Add and remove items.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

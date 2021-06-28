@@ -40,3 +40,7 @@ The `this` keyword in JavaScript is a complex concept to grasp since its value c
 Classes are a controversial topic in JavaScript. Some people argue that they are just *syntactic sugar* for prototype-based inheritance, and therefore they should be avoided; while others love classes for their simplified, beautiful syntax, and also think they are not just syntactic sugar but are a useful new feature of the language.
 
 Take a look at this [StackOverflow discussion](https://stackoverflow.com/questions/36419713/are-es6-classes-just-syntactic-sugar-for-the-prototypal-pattern-in-javascript) to learn more about both sides of this debate.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

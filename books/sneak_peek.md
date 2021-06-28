@@ -44,3 +44,7 @@ You will be building your "Awesome books" website for the whole week. Here is th
 - Project 2: Manage books collection (plain JS with classes).
 - Project 3: Style core elements of the page.
 - Project 4: Create a complete website with navigation.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

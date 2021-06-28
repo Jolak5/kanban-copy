@@ -55,3 +55,7 @@ Now go to your Student Dashboard and submit your project.
 
 *If you decide to implement these requirements you should do it in a separate pull request. As always, remember to clearly document your decision in GitHub comments.*
 - Once you're done with the task, you might want to personalize the styling for the list. 
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

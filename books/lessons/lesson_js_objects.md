@@ -44,3 +44,7 @@ You may have noticed that the `Object() constructor` and the `Object.prototype.c
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 - Read the article [How to create objects in JavaScript](https://www.freecodecamp.org/news/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8/) that summarizes the different ways of creating objects. Note that in this lesson we are not talking about *classes* - that's a topic that will be discussed in its own lesson.
 - Learn more about [objects and object constructors](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript/lessons/objects-and-object-constructors) in this article from The Odin Project.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

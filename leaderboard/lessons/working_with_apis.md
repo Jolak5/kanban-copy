@@ -35,3 +35,7 @@ There are several ways to *consume* an API, read [this aticle](../articles/how_t
 **These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
 
 If you want to learn more about the different types of APIs and their main differences, read the article [The Ultimate Guide to API Architecture: REST, SOAP or GraphQL?](https://da-14.com/blog/ultimate-guide-api-architecture-rest-soap-or-graphql).
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
