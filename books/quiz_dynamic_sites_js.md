@@ -19,3 +19,7 @@ You need to get a minimum of 70% of correct answers to pass the quiz. After you 
 
 To proceed with the quiz use the "Checkpoint Quiz" action in your Students Dashboard.
 
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

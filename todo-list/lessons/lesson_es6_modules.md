@@ -26,3 +26,7 @@ Since the introduction of ES6 modules, the task has never been easier.
 If you want to explore the syntax and functionality of ES6 modules in more detail, read these articles as well: 
 - [about `export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export).
 - [about `import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import).
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -87,3 +87,7 @@ In this lesson, we've covered only the most commonly used new ES6 features. For 
 But if you want to get familiar with all the new features of ES6 then [look through the ES6 documentation here](http://es6-features.org/).
 
 You can also bookmark [this cheet sheet](https://devhints.io/es6) for future reference.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

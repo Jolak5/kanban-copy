@@ -86,3 +86,7 @@ Paste the link to your GitHub repository.
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 - We strongly advise you to check the [official webpack documentation](https://webpack.js.org/concepts/) for better understanding of the tools you're using here.
 - To check all available options for HtmlWebpackPlugin plugin configuraion, visit the [webpack plugin GitHub repo](https://github.com/jantimon/html-webpack-plugin).
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._

@@ -33,3 +33,7 @@ A traditional web application is composed of several pages, each one making a re
 **These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
 
 Take a look at the [single page applications Wikipedia entry](https://en.wikipedia.org/wiki/Single-page_application). It's a very thorough, lengthy article where you can find the history of SPAs and the web technologies that made them possible, including Ajax, which may be the most important innovation for the development of SPAs.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
