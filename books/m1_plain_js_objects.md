@@ -43,6 +43,7 @@ In this project, you will build a basic website that allows users to add/remove 
 - Make sure that data is preserved in the browser's memory by using [localStorage](https://github.com/microverseinc/curriculum-html-css/blob/main/local_storage.md).
 - To debug your application, you can use [console.log()](https://developer.mozilla.org/en-US/docs/Web/API/Console/log). **Remember to remove debugging code before pushing your code to the remote repository.**
 - Don't use any library or framework, use only plain JavaScript.
+-  **You need to use pair-programming for this project. We will check to see if both partners submitted code by looking at the commit history for each project. Therefore you need to implement the above features in all of the portfolios in your pair-programming group.**
 
 **TIP:** If you have issues with the linter for either having multiple classes at the same file, or not an unused-variable error if you separated the code in multiple files, disable the linter check for that rule in the file with a `/* eslint-disable rule-you-want-to-disable */`
 .
