@@ -20,19 +20,21 @@ In order to copy the Kanban board quickly, you will use a special script prepare
 - Make sure that each card starts with `[Xpt]` - that number indicates the number of `points` that shows how complex the task is. **1 point = 1 hour of work**.
 - _If your group includes two people - remove all cards with `Student C` in the title._
 - Decide who in your team is the `Student A`, `Student B`, or `Student C`.
-- Each of the team members should assign themselves to the correct cards.
-- [Open a new issue in your repository](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue). In its description, paste a link to your GitHub project.
+- Each of the team members should assign themselves to the correct cards. Decide who will be the assignee for the cards marked as group tasks. All cards on your Kanban board should have assignees.
+- [Open a new issue in your repository](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
+    - In its description, paste a link to your GitHub project.
+    - Add a note telling the reviewer how many people there are in your team.
 - Use the issue link to ask for a review. A Code Reviewer will leave you feedback in the issue's comment.
-    - As it is your first time using a GitHub project and Kanban board, we need to double-check your setup to avoid issues while working on your project.
+    - As it is your first time using a GitHub project and Kanban board, we need to double-check your setup to avoid problems while working on your project.
 
 ## Code review
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
-**Special case: instead of a pull request, you need to use an issue to communicate with your reviewer.
+**Special case: instead of a pull request, you need to use an issue to communicate with your reviewer.**
 
 ## Submit your project
 
 After the final approval from a code reviewer, you need to submit your project.
 [Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
-Now go to your Student Dashboard and submit your project.
+Close your GitHub issue and go to your Student Dashboard and submit your project.
 
