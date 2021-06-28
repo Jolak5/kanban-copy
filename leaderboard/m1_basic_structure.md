@@ -27,6 +27,8 @@ In this activity you will set up a JavaScript project for the Leaderboard list a
 
 ### Project requirements
 
+
+- **IMPORTANT NOTE** This is the first time you will use [Gitflow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/gitflow.md). Keep that in mind!
 - Create an **npm project with webpack**. (If you need a refresher, check the previous project or webpack exercise).
 - Write plain HTML markup with minimum styling (just to make the layout), because you will implement styles in the following steps. Use this wireframe as a guide:
 
