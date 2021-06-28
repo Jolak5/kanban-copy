@@ -29,7 +29,7 @@ In this project, you will refactor the **Awesome books** application to use Java
 - Create class `methods` to add and remove books.
 - Maintain all of the original functionality of the application.
 - Don't use any library or framework, use only plain JavaScript.
-- **You need to use pair-programming for this project. We will check to see if both partners submitted code by looking at the commit history for each project. Therefore you need to implement the above features in all of the portfolios in your pair-programming group.**
+-  **You need to use pair-programming for this project. We will check to see if both partners submitted code by looking at the commit history for each project. Therefore you need to use only one repository for your pair-programming group.**
 
 ### Need a big picture? 
 
