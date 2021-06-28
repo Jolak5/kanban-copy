@@ -27,6 +27,7 @@ In this part of the testing project, you will test functions responsible for the
 - Use the mock storage object you have created in Part 1 of this project to mock the *localStorage* updates.
 - Mock the HTML elements to test DOM manipulation functions.
 - Make sure you group your tests using the `description()` method.
+-  **You need to use pair-programming for this project. We will check to see if both partners submitted code by looking at the commit history for each project.  Therefore you need to select one of the repos in your pair-programming group in which you will implement the above features.**
 
 ### Optional requirements
 - Check the *test coverage*. You should aim for covering 100% of your code.
