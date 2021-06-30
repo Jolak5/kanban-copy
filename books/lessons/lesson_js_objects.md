@@ -18,7 +18,7 @@ In JavaScript, almost everything is an object! They are one of the data structur
 
 There are several ways to create objects in JavaScript, each one with small differences not only in syntax but also in the way you set the prototype and assign its properties. Take a look at the detailed documentation of each way (remember that your goal is to observe and understand the differences, not to read entire documentation):
 
-- [Object *literal* notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer) (also known as *initializer* notation). This topic was already introduced in the [previous module](https://github.com/microverseinc/curriculum-html-css/blob/main/store_user_input.md). 
+- [Object *literal* notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer) (also known as *initializer* notation). This topic was already introduced in the [previous module](https://github.com/microverseinc/curriculum-html-css/blob/main/introduction_to_js_objects.md). 
 - [Object() constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/Object).
 - [Object.prototype.constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor).
 - [Object.create()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create).
