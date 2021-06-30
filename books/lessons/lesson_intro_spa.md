@@ -29,7 +29,7 @@ A traditional web application is composed of several pages, each one making a re
 - [Single page application definition](https://developer.mozilla.org/en-US/docs/Glossary/SPA).
 - [Single page applications vs multi-page applications](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58).
 
-## Additional materials [optional header]
+## Additional materials
 **These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.**
 
 Take a look at the [single page applications Wikipedia entry](https://en.wikipedia.org/wiki/Single-page_application). It's a very thorough, lengthy article where you can find the history of SPAs and the web technologies that made them possible, including Ajax, which may be the most important innovation for the development of SPAs.
