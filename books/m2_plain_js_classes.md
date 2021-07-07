@@ -27,7 +27,7 @@ In this project, you will refactor the **Awesome books** application to use Java
 - Use JavaScript `classes` instead of `objects` and `arrays`.
   - You can use objects and arrays, but do it *inside* classes.
 - Create class `methods` to add and remove books.
-- Maintain all of the original functionality of the application.
+- Maintain all of the original functionality of the application (i.e. no bugs were introduced while refactoring).
 - Don't use any library or framework, use only plain JavaScript.
 -  **You need to use pair-programming for this project. We will check to see if both partners submitted code by looking at the commit history for each project. Therefore you need to use only one repository for your pair-programming group.**
 
