@@ -8,7 +8,7 @@
 ### Estimated time: 3.5h
 
 ## Description
-In this project, you will add some functionality to your application to make it interactive. The user will be able to reorder the list by **dragging** each item and moving it into the desired position. The user will also be able to **mark task completion** by selecting the corresponding checkbox. The updated tasks list will be stored in *local storage*.
+In this project, you will add some functionality to your application to make it interactive. The user will be able to reorder the list by **dragging** each item and moving it into the desired position. The user will also be able to **mark task completion** by selecting the corresponding checkbox (or undo it by unchecking the checkbox). The updated tasks list will be stored in *local storage*.
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
