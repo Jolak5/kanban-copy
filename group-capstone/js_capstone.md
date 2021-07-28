@@ -16,6 +16,7 @@
 - Use API documentation.
 - Understand and use JSON.
 - Make JavaScript code synchronous.
+- Perform a code review for a team member.
 
 ### Estimated time: 20.5h
 
