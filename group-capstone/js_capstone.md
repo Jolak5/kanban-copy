@@ -158,7 +158,7 @@ Below you can see a suggestion of what you can do every day (just a suggestion, 
 
 ## Code review
 
-You will give and receive code reviewes from your teammates. Each task should have a separate pull request that is reviewed by one of your teammates.
+You will give and receive code reviewes from your teammates. Each task (i.e. each card) should have a separate pull request that is reviewed by one of your teammates. Be nice to your teammates and add link to the PR in specific card's comments.
 Once the entire project is ready, one of your team members will request a code review on behalf of your group.
 For both proccesses follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/code_review_flow_group_projects.md).
 
