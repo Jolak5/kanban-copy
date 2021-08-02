@@ -53,6 +53,9 @@ The JavaScript capstone project ([remember what they are?](https://github.com/mi
 
 ### Project requirements
 
+
+**IMPORTANT NOTE:** in this project you will also practice giving code reviews to your teammates. Remember to read the [Code Review](#code-review) carefully!
+
 **APIs**
 - First, you need to find an API so you can base the development of the webapp around it. The API should allow you to:
   - Get a list of items with a unique item id (or generate the unique id).
