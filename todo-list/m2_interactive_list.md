@@ -8,7 +8,7 @@
 ### Estimated time: 3.5h
 
 ## Description
-In this project, you will add some functionality to your application to make it interactive. The user will be able to reorder the list by **dragging** each item and moving it into the desired position. The user will also be able to **mark task completion** by selecting the corresponding checkbox (or undo it by unchecking the checkbox). The updated tasks list will be stored in *local storage*.
+In this project, you will add some functionality to your application to make it interactive.  The user will also be able to **mark task completion** by selecting the corresponding checkbox (or undo it by unchecking the checkbox). The updated tasks list will be stored in *local storage*.
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
@@ -28,11 +28,10 @@ In this project, you will add some functionality to your application to make it 
 
 ### Project requirements
 
-- Add 2 new JavaScript files and import them as modules:    
-    - one will contain methods related to drag / drop and sorting functionality.
-    - the other will contain methods related to the status updates (`completed`: `true` / `false`).
-- Add event listeners to list items (`dragstart`, `dragover`, `drop`) and to checkbox (`change`).
-- Update items object's values for `index` and `completed` keys upon user actions.
+- Add a new JavaScript files and import it as a module:    
+    - it will contain methods related to the status updates (`completed`: `true` / `false`).
+- Add event listener to the checkbox (`change`).
+- Update items object's value for `completed` key upon user actions.
 - Store the updated array of items in local storage, so the user gets the correct list values after the page reloads.
 
 ### Need a big picture? 
@@ -50,6 +49,23 @@ After the final approval from a code reviewer, you need to submit your project.
 Now go to your Student Dashboard and submit your project.
 
 
+## Additional requirements
+
+_These are all optional, but if you're interested in exploring this topic further, feel free to implement them. Any exploration here should be done outside program time._
+
+_If you decide to implement these requirements you should do it in a separate pull request. As always, remember to clearly document your decision in GitHub comments._
+
+
+
+The user should be able to reorder the list by **dragging** each item and moving it into the desired position.
+
+- Add a new JavaScript file and import it as a module:    
+    - it will contain methods related to drag / drop and sorting functionality.
+- Add event listeners to list items (`dragstart`, `dragover`, `drop`).
+- Update items object's values for `index` key upon user actions.
+
 ------
 
 _If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
+
+
