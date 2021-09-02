@@ -21,6 +21,7 @@ In this project you will write unit tests for the To Do list application. The te
 ### Project requirements
 
 - This is a pair-programming project. Please decide whose project will you use for testing.
+- Use jest framework for testing.
 - Create a test file (`[..].test.js`) for a file containing the **add item** and **delete item**  functions that you want to test.
 - Take a look at each of these functions. Are they *pure functions*? If the answer is "yes" then writing tests for them should be straightforward. Some of those functions however will update *localStorage* and manipulate the *DOM*. For those, you will need to use mocks:
   - Mock a storage object to "imitate" localStorage operations.
