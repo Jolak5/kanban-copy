@@ -19,6 +19,7 @@ In this part of the testing project, you will test functions responsible for the
   - Follow our list of [best practices for JavaScript](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md).
 
 ### Project requirements
+- Use jest framework for testing.
 - Create a test file(s) (`[..].test.js`) for a file(s) containing the following functions:
     - a function for editing the task description.
     - a function for updating an item's 'completed' status.
