@@ -73,7 +73,7 @@ The way you consume an API depends on your needs. For example, if you are develo
 
 Here are some guides you can follow:
 
-- [Using fetch](https://learning.postman.com/docs/getting-started/sending-the-first-request/).
+- [Using fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch).
 - [Postman: sending your first request](https://learning.postman.com/docs/getting-started/sending-the-first-request/).
 
 ------
