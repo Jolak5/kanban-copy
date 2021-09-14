@@ -22,9 +22,9 @@ Your task is to build a website that displays a list that looks and behaves like
 You will need to implement the following functionalities (presented in the video above):
 - Adding a new item.
 - Removing a selected item.
-- Reordering a selected item (as drag-and-drop).
 - Marking a selected item as complete.
 - Removing all items marked as complete at once.
+- Reordering a selected item (as drag-and-drop) _[as an additional feature]_.
 
 ### Projects list
 
