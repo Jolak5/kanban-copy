@@ -23,7 +23,6 @@ In this part of the testing project, you will test functions responsible for the
 - Create a test file(s) (`[..].test.js`) for a file(s) containing the following functions:
     - a function for editing the task description.
     - a function for updating an item's 'completed' status.
-    - a function for updating an item's index value upon drag/drop actions.
     - the "Clear all completed" function.
 - Use the mock storage object you have created in Part 1 of this project to mock the *localStorage* updates.
 - Mock the HTML elements to test DOM manipulation functions.
