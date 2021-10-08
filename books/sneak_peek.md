@@ -5,7 +5,7 @@
 
 ### Estimated time: 0.5h
 
-*IMPORTANT NOTE: Remember to start each week with setting working agreements with your partner to avoid conflict. [You can find the lesson here](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/working-agreements-for-successful-pair-programming.md). Please bookmark it so you can use it at the start of each week. If you are experiencing difficulties with your partner, please reach out to Student Success right away so we can help you. It's important that you have a good collaboration that results in learning. We always try to speak to all parties involved to resolve the conflict. In some cases, we will re-pair you with a new student (this is only possible in the beginning of the week). 
+*IMPORTANT NOTE: Remember to start each week with setting working agreements with your partner to improve your collaboration and to avoid conflict. [You can find the lesson here](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/working-agreements-for-successful-pair-programming.md). Please bookmark it so you can use it at the start of each week. If you are experiencing difficulties with your partner, please reach out to Student Success right away so we can help you. It's important that you have a good collaboration that results in learning. We always try to speak to all parties involved to resolve the conflict. In some cases, we will re-pair you with a new student (this is only possible in the beginning of the week). 
 
 ## Description
 
