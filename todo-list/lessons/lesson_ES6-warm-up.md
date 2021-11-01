@@ -16,7 +16,7 @@ Good knowledge of ES6 syntax and the applicability of a given solution will arm 
 ### Complete the tasks
 Follow the links below and complete all the tasks:
 
-- [Explore differences between the var and let keywords](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/explore-differences-between-the-var-and-let-keywords).
+- [Explore differences between the var and let keywords](https://www.geeksforgeeks.org/difference-between-var-and-let-in-javascript/).
 - [Compare scopes of the var and let keywords](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/compare-scopes-of-the-var-and-let-keywords).
 - [Declare a read-only variable with the const keyword](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/declare-a-read-only-variable-with-the-const-keyword).
 - [Mutate an array declared with const](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/mutate-an-array-declared-with-const).
