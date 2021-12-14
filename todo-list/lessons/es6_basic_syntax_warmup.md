@@ -1,4 +1,4 @@
-# ES6 - warm-up
+# ES6 - basic syntax warm-up
 
 ## Learning objectives
 - Use ES6 syntax
