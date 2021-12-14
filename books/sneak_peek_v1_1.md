@@ -43,7 +43,7 @@ In the last step, you will build a complete website with working navigation. Whe
 You will be building your "Awesome books" website for the whole week. Here is the list of projects that will guide you through the steps described above. You will find details about each of the project requirements in the upcoming program activities. In all of the projects, you will be working collaboratively by using pair-programming.
 
 - Project 1: Manage books collection (plain JS with objects).
-- Project 2: Manage books collection (plain JS with classes).
+- Project 2: Manage books collection (plain JS with classes) and add basic CSS.
 - Project 3: Create a complete website with navigation.
 
 ------
