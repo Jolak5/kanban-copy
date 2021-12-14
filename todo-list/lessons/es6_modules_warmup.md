@@ -21,3 +21,8 @@ Follow the links below and complete all the tasks:
 - [Use * to import everything from a file](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use--to-import-everything-from-a-file).
 - [Create an export fallback with export default](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default).
 - [Import a default export](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/import-a-default-export).
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
