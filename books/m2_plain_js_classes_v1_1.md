@@ -41,7 +41,7 @@ In this project, you will refactor the **Awesome books** application to use Java
 
 ### Need a big picture? 
 
-Remind me about [the big picture of this project](https://github.com/microverseinc/curriculum-javascript/blob/main/books/sneak_peek.md).
+Remind me about [the big picture of this project](https://github.com/microverseinc/curriculum-javascript/blob/main/books/sneak_peek_v1_1.md).
 
 ## Code review
 
