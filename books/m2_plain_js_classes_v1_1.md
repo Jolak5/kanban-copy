@@ -5,7 +5,7 @@
 - Use JavaScript classes.
 - Understand how to use medium-fidelity wireframes to create a UI.
 
-### Estimated time: 3h
+### Estimated time: 3.5h
 
 ## Description
 
