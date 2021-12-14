@@ -4,7 +4,7 @@
 - Use ES6 syntax
 - Use callbacks and promises
 
-### Estimated time: 3h
+### Estimated time: 2.5h
 
 ## Description
 In this lesson, you are asked to do some practical exercises. They will cover all the topics on ES6 you have been studying so far.
