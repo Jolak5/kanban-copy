@@ -52,7 +52,7 @@ Check the [ESLint documentation](https://eslint.org/docs/2.13.1/user-guide/confi
 
 ### Need a big picture?
 
-Remind me about the [big picture of this project.](https://github.com/microverseinc/curriculum-javascript/blob/main/books/sneak_peek_v_1_1.md)
+Remind me about the [big picture of this project.](https://github.com/microverseinc/curriculum-javascript/blob/main/books/sneak_peek_v1_1.md)
 
 ### Code review
 
