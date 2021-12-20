@@ -3,15 +3,18 @@
 
 ## Learning objectives
 
-- Understand the concept of single page application.
-- Use JavaScript to manipulate DOM elements.
-- Use JavaScript events.
+- Use ES6 modules to write modular JavaScript.
+- Learn how to use proper ES6 syntax.
+- Understand improvements that ES6 brings to JavaScript.
+- Use npm as a software packages system.
 
 ### Estimated time: 4.5h
 
 ## Description
 
-In this project, you will take the *Awesome books* application and convert it into a fully functional website. You will refactor the project to add three new sections on top of the two sections you have already completed: *Books list* (done), *Add book* form (done), a new *Contact info* section, a *Navigation bar*, and a *Footer*.
+In this project, you will restructure your _Awesome books_ app code. The goal is to make it more organized by using modules.
+You will also practice the ES6 syntax that you have learned.
+
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
@@ -31,25 +34,22 @@ In this project, you will take the *Awesome books* application and convert it in
 
 ### Project requirements
 
-- Modify the Awesome books application to have:
-  - A Navigation bar.
-  - Three content sections:
-    1. Books list.
-    2. Add book form.
-    3. Contact info.
+- Setup your project:
+  - Create a new directory and initialize it with git.
+  - Use the `npm init -y` command to create a package.json file.
+  - Create the entry point for your JavaScript code called `index.js`
+  - Create the main `index.html` file. Link your `index.js` file there.
+  - Create a directory called `src`.
+- Re-create your _Awesome books_ app following the rules:
+  - Use ES6 syntax.
+  - Divide your code into modules. Save each module in a separate file in the `src` dir. Import modules in the `index.js` file. For this exercise - the more modules the better!
+  - Keep all functionalities of the app without errors.
+ 
+- Display the current date below the navigation bar. - For this requirement, you should use a library - [Luxon](https://moment.github.io/luxon/#/install)
+  - Install it as an npm package: `npm install --save luxon`.
+  - Import it as a module.
+  - See the article [Get the current date and time](https://moment.github.io/luxon/#/tour?id=get-the-current-date-and-time). Your task here is to use a new tool effectively with little externally curated support. Exactly as you will do in your future job.
 
-- Use this wireframe as a guide:
-<p align="center">
-  <img src="./images/awesome_books_full_website.png" alt="Basic UI"  width="900px"/>
-</p>
-
-- Make sure that when you click on any of the links, the main area changes to display only one of the three content sections. (Hint: you can simply add and remove CSS classes to display or hide the content.)
-- To change the contents of the page, don't use any library or framework, use only plain JavaScript and CSS.
--  **You need to use pair-programming for this project. We will check to see if both partners submitted code by looking at the commit history for each project. Therefore you need to use only one repository for your pair-programming group.**
-
-### Need a big picture?
-
-Remind me about [the big picture of this project](https://github.com/microverseinc/curriculum-javascript/blob/main/books/sneak_peek_v1_1.md).
 
 ## Code review
 
@@ -60,14 +60,6 @@ Follow [these steps](https://github.com/microverseinc/curriculum-transversal-ski
 After the final approval from a code reviewer, you need to submit your project.
 [Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
 Now go to your Student Dashboard and submit your project.
-
-# Additional requirements
-
-*These are all optional, but if you're interested in exploring this topic further, feel free to implement them. Any exploration here should be done outside program time.*
-
-*If you decide to implement these requirements you should do it in a separate pull request. As always, remember to clearly document your decision in GitHub comments.*
-
-If you want to add some nice effects and transitions to the navigation, you can use [CSS transitions](https://www.w3schools.com/css/css3_transitions.asp).
 
 ------
 
