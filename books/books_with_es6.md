@@ -38,7 +38,8 @@ You will also practice the ES6 syntax that you have learned.
   - Create a new directory and initialize it with git.
   - Use `npm init -y` command to create package.json file.
   - Create the entry point for your JavaScript code called `index.js`
-  - Create the main `index.html` file. Link your `index.js` file there.
+  - Create `index.css` file for your styles.
+  - Create the main `index.html` file. Link your `index.js` and `index.css` files there.
   - Create a directory called `modules`.
 - Re-create your _Awesome books_ app following the rules:
   - Use ES6 syntax.
