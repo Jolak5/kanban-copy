@@ -39,10 +39,10 @@ You will also practice the ES6 syntax that you have learned.
   - Use `npm init -y` command to create package.json file.
   - Create the entry point for your JavaScript code called `index.js`
   - Create the main `index.html` file. Link your `index.js` file there.
-  - Create a directory called `src`.
+  - Create a directory called `modules`.
 - Re-create your _Awesome books_ app following the rules:
   - Use ES6 syntax.
-  - Divide your code into modules. Save each module in a separate file in the `src` dir. Import modules in the `index.js` file. For this exercise - the more modules the better!
+  - Divide your code into modules. Save each module in a separate file in the `modules` dir. Import modules in the `index.js` file. For this exercise - the more modules the better!
   - Keep all funcionalities of the app without errors.
  
 - Display the current date below the navigation bar. - For this requirement you should use a library - [Luxon](https://moment.github.io/luxon/#/install)
