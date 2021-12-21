@@ -32,7 +32,7 @@ In this project, you will add some functionality to your application to make it 
     - it will contain methods related to the status updates (`completed`: `true` / `false`).
 - Add event listener to the checkbox (`change`).
 - Update items object's value for `completed` key upon user actions.
-- Implement a function for editing task descriptions.
+- Implement a function for the "Clear all completed" button (use `filter()` method).
 - Store the updated array of items in local storage, so the user gets the correct list values after the page reloads.
 
 ### Need a big picture? 
