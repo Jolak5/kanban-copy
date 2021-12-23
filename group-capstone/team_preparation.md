@@ -25,7 +25,7 @@ If you make sure that you are on the same page, your work will be more effective
 
 #### Collaboration difficulties
 
- ‼️ 👉 Remember, in group projects we will be looking for equal commits from each team members. **If you experience difficulties while collaborating with your group, please reach out to Student Success right away [by filling out this form.](https://airtable.com/shr8ApqXENQ0DSHto)** We are here to support you. Some difficulties might include a partner not showing up, a partner not doing any part of the work, a partner not holding up to their part of the agreement. Students who do not do their part of the work and let their group do everything will repeat the week👈 ‼️ 
+ ‼️ 👉 Remember, in group projects we will be looking for equal commits from each team members. **If you experience difficulties while collaborating with your group, please reach out to Student Success right away [by filling out this form.](https://airtable.com/shr8ApqXENQ0DSHto)** We are here to support you. Some difficulties might include a partner not showing up, a partner not doing their part of the work, a partner not holding up to their part of the agreement. We do not unpair students in group work, but we work with you to resolve the conflict. Reach out to Student Success earlier in the week as that gives us more time to resolve the issue. Students who do not do their part of the work and let their group do everything will repeat the week 👈 ‼️ 
 
 _Read and discuss all of the following points with your team during the Zoom call._
 
