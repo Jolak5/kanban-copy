@@ -52,9 +52,14 @@ You will also practice the ES6 syntax that you have learned.
   - See the article [Get the current date and time](https://moment.github.io/luxon/#/tour?id=get-the-current-date-and-time). Your task here is to use a new tool effectively with little externally curated support. Exactly as you will do in your future job.
 
 
+- **You need to use pair-programming for this project. We will check the commit history to make sure that both partners have contributed code on each project. Therefore you need to implement the above features in all of the portfolios in your pair-programming group.**
+
+
 ## Code review
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
+
+**Each person in your group should request a code review individually.**
 
 ## Submit your project
 
