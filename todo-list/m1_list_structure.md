@@ -32,7 +32,7 @@ In this project, you will build a simple HTML list of *To Do* tasks. The list wi
   2. completed [`bool`].
   3. index: [`number`].
 - Write a function to iterate over the tasks array and populate an HTML list item element for each task.
-- On page load render the dynamically created list of tasks in the dedicated placeholder. The list should apear in order of the `index` values for each task.
+- On page load render the dynamically created list of tasks in the dedicated placeholder. The list should appear in order of the `index` values for each task.
 - Create a **style.css** and set rules for the **To Do List**. CSS must be loaded by *Webpack Style/CSS Loader*. Your list should be a clone of the part of the minimalist project captured in the video below.
 
 [![Capstone intro](https://img.youtube.com/vi/AcUd-_Yjjqg/0.jpg)](https://www.youtube.com/watch?v=AcUd-_Yjjqg)
