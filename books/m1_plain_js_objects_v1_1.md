@@ -45,7 +45,7 @@ In this project, you will build a basic website that allows users to add/remove 
 - Don't use any library or framework, use only plain JavaScript.
 -  **You need to use pair-programming for this project. We will check to see if both partners submitted code by looking at the commit history for each project. Therefore you need to use only one repository for your pair-programming group.**
 
-**TIP:** If you have issues with the linter for either having multiple classes at the same file, or not an unused-variable error if you separated the code in multiple files, disable the linter check for that rule in the file with a `/* eslint-disable rule-you-want-to-disable */`
+**TIP:** If you separated the code in multiple files and you you have the following issues with the linter: complaining about having multiple classes at the same file, or an unused variables, disable the linter check for that rule in the file with a `/* eslint-disable rule-you-want-to-disable */`
 .
 
 Check the [ESLint documentation](https://eslint.org/docs/2.13.1/user-guide/configuring#disabling-rules-with-inline-comments) for more details on how.
