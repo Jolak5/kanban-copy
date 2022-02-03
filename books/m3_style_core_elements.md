@@ -33,11 +33,16 @@ In this project, you will add CSS styles to the Awesome books application.
 - You can use the styles of your choice (colors, fonts, backgrounds, etc.), but try to follow the general layout.
 - Concentrate on the general layout, rather than the details.
 - You can use plain CSS or a CSS framework (like [Bootstrap](https://getbootstrap.com/)) if you prefer.
--  **You need to use pair-programming for this project. We will check to see if both partners submitted code by looking at the commit history for each project. Therefore you need to use only one repository for your pair-programming group.**
+
 
 ### Need a big picture? 
 
 Remind me about [the big picture of this project](https://github.com/microverseinc/curriculum-javascript/blob/main/books/sneak_peek.md).
+
+## Work and submission mode
+
+You should implement the above requirements only in **one repository** in your pair-programming group.
+You should ask for a review and submit this activity **on behalf of your pair-programming group.**
 
 ## Code review
 
