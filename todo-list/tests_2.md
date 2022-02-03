@@ -27,13 +27,18 @@ In this part of the testing project, you will test functions responsible for the
 - Use the mock storage object you have created in Part 1 of this project to mock the *localStorage* updates.
 - Mock the HTML elements to test DOM manipulation functions.
 - Make sure you group your tests using the `description()` method.
--  **You need to use pair-programming for this project. We will check to see if both partners submitted code by looking at the commit history for each project.  Therefore you need to select one of the repos in your pair-programming group in which you will implement the above features.**
+
 
 ### Optional requirements
 - Check the *test coverage*. You should aim for covering 100% of your code.
 
 ### Need a big picture? 
 Remind me about [the big picture of this project](./sneak_peek.md).
+
+## Work and submission mode
+
+You should implement the above requirements only in **one repository** in your pair-programming group.
+You should ask for a review and submit this activity **on behalf of your pair-programming group.**
 
 ## Code review
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
