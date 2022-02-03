@@ -45,11 +45,16 @@ In this project, you will take the *Awesome books* application and convert it in
 
 - Make sure that when you click on any of the links, the main area changes to display only one of the three content sections. (Hint: you can simply add and remove CSS classes to display or hide the content.)
 - To change the contents of the page, don't use any library or framework, use only plain JavaScript and CSS.
--  **You need to use pair-programming for this project. We will check to see if both partners submitted code by looking at the commit history for each project. Therefore you need to use only one repository for your pair-programming group.**
+
 
 ### Need a big picture?
 
 Remind me about [the big picture of this project](https://github.com/microverseinc/curriculum-javascript/blob/main/books/sneak_peek_v1_1.md).
+
+## Work and submission mode
+
+You should implement the above requirements only in **one repository** in your pair-programming group.
+You should ask for a review and submit this activity **on behalf of your pair-programming group.**
 
 ## Code review
 
