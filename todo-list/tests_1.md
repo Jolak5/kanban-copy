@@ -27,7 +27,7 @@ In this project you will write unit tests for the To Do list application. The te
   - Mock a storage object to "imitate" localStorage operations (only if you are using `jest < 24.x`, in newer versions localStorage is mocked automatically).
   - Mock HTML to test if add/delete functions add or remove exactly one `<li>` element to/from the list in the DOM.
 - Make sure you group your tests using the `describe()` method.
--  **You need to use pair-programming for this project. We will check to see if both partners submitted code by looking at the commit history for each project.  Therefore you need to select one of the repos in your pair-programming group in which you will implement the above features.**
+
 
 ### Optional requirement
 
@@ -45,6 +45,12 @@ When writing tests the closer you get to 100% coverage the better.
 ### Need a big picture? 
 
 Remind me about [the big picture of this project](./sneak_peek.md).
+
+
+## Work and submission mode
+
+You should implement the above requirements only in **one repository** in your pair-programming group.
+You should ask for a review and submit this activity **on behalf of your pair-programming group.**
 
 ## Code review
 
