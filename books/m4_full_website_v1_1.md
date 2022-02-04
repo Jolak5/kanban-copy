@@ -53,8 +53,8 @@ Remind me about [the big picture of this project](https://github.com/microversei
 
 ## Work and submission mode
 
-You should implement the above requirements only in **one repository** in your pair-programming group.
-You should ask for a review and submit this activity **on behalf of your pair-programming group.**
+- You should implement the above requirements only in **one repository** in your pair-programming group.
+- You should ask for a review and submit this activity **on behalf of your pair-programming group.**
 
 ## Code review
 
