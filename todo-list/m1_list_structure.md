@@ -41,6 +41,10 @@ In this project, you will build a simple HTML list of *To Do* tasks. The list wi
 ### Need a big picture? 
 Remind me about [the big picture of this project](./sneak_peek.md).
 
+## Work and submission mode
+
+- You should submit this activity **individually.**
+
 ## Code review
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
 
