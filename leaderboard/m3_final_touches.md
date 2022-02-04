@@ -38,6 +38,10 @@ In this activity you will finalize the *Leaderboard list* app, adding the styles
 
 Remind me about [the big picture of this project](./sneak_peek.md).
 
+## Work and submission mode
+
+- You should submit this activity **individually.**
+
 ## Code review
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
