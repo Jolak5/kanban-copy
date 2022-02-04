@@ -27,6 +27,11 @@ In order to copy the Kanban board quickly, you will use a special script prepare
 - Use the issue link to ask for a review. A Code Reviewer will leave you feedback in the issue's comment.
     - As it is your first time using a GitHub project and Kanban board, we need to double-check your setup to avoid problems while working on your project.
 
+## Work and submission mode
+
+- You should implement the above requirements only in **one repository** in your group.
+- You should ask for a review and submit this activity **on behalf of your group.**
+
 ## Code review
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
