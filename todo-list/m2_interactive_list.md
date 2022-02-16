@@ -28,7 +28,7 @@ In this project, you will add some functionality to your application to make it 
 
 ### Project requirements
 
-- Add a new JavaScript files and import it as a module:    
+- Add a new JavaScript file and import it as a module:    
     - it will contain methods related to the status updates (`completed`: `true` / `false`).
 - Add event listener to the checkbox (`change`).
 - Update items object's value for `completed` key upon user actions.
