@@ -65,7 +65,7 @@ There are several tools you can use to *hit* an API. Check them briefly, don't t
 
 - Modern browsers support the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch), which allows you to make requests without installing anything else. If you are working with web applications this may be your first option.
 
-- An API client, like [Postman](https://www.postman.com/product/api-client/) is a very useful tool that allows you to make requests and pass any options using a nice UI.
+- An API client, like [Postman](https://www.postman.com/product/api-client/) is a very useful tool that allows you to make requests and pass any options using a nice UI. You can also use open source [Hoppscotch](https://hoppscotch.io/) or any other alternative listed in [article "Top 5 Postman alternatives"](https://testfully.io/blog/top-5-postman-alternatives/).
 
 - You can also use a command line tool, like [curl](https://curl.se/).
 
