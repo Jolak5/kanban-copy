@@ -46,8 +46,9 @@ You will also practice the ES6 syntax that you have learned.
   - Divide your code into modules. Save each module in a separate file in the `modules` dir. Import modules in the `index.js` file. For this exercise - the more modules the better!
   - Keep all funcionalities of the app without errors.
  
-- Display the current date below the navigation bar. - For this requirement you should use a library - [Luxon](https://moment.github.io/luxon/#/install)
-  - Install it as a npm package: `npm install --save luxon`.
+- Display the current date below the navigation bar. 
+  - For this requirement you should use a library [Luxon](https://moment.github.io/luxon/#/install?id=es6)
+  - Download the script and save it to your project. 
   - Import it as a module.
   - See the article [Get the current date and time](https://moment.github.io/luxon/#/tour?id=get-the-current-date-and-time). Your task here is to use a new tool effectively with little externally curated support. Exactly as you will do in your future job.
 
