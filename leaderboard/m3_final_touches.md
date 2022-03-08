@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-- Make JavaScript code asynchronous.
+- Finalize the app, adding the styles needed.
 
 ### Estimated time: 4h
 
