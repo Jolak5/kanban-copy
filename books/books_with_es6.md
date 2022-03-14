@@ -45,6 +45,9 @@ You will also practice the ES6 syntax that you have learned.
   - Use ES6 syntax.
   - Divide your code into modules. Save each module in a separate file in the `modules` dir. Import modules in the `index.js` file. For this exercise - the more modules the better!
   - Keep all funcionalities of the app without errors.
+  - Refactor your methods and functions to arrow functions.
+  - Use let and const in a correct way.
+
  
 - Display the current date below the navigation bar. 
   - For this requirement you should use a library [Luxon](https://moment.github.io/luxon/#/install?id=es6)
