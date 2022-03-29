@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-- Make JavaScript code asynchronous.
+- Understand how to use medium-fidelity wireframes to create a UI.
 
 ### Estimated time: 4h
 
