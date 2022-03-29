@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-- Finalize the app, adding the styles needed.
+- Understand how to use medium-fidelity wireframes to create a UI.
 
 ### Estimated time: 4h
 
