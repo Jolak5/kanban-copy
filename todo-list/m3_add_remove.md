@@ -30,7 +30,7 @@ In this project, you will implement the CRUD (create, update, delete) methods. A
 - Implement a function for deleting a task (remove an element from the array).
 - Implement a function for editing task descriptions.
 - By default new tasks should have the property `completed` set to `false` and the property `index` set to the value of the new array length (i.e. if you're adding a 5th task to the list, the index of that task should equal to 5).
-- Deleting a task should update all remaining items' indexes, so they represent the current list order and are unique.
+- Deleting a task should update all remaining items' indexes, so they represent the current list order and are unique(i.e. if you're deleting the first task index 1 from the list, the index of the next task(2) should set to 1)..
 - All changes to the To Do List should be saved in local storage.
 
 ### Need a big picture? 
