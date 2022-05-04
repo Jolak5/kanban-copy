@@ -26,7 +26,7 @@ In this part of the testing project, you will test functions responsible for the
     - the "Clear all completed" function.
 - Use the mock storage object you have created in Part 1 of this project to mock the *localStorage* updates.
 - Mock the HTML elements to test DOM manipulation functions.
-- Make sure you group your tests using the `description()` method.
+- Make sure you group your tests using the `describe()` method.
 
 
 ### Optional requirements
