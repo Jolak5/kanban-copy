@@ -6,11 +6,11 @@
 ### Estimated time: 1h
 
 ## Exercise
-Now that your To Do list application is ready, you can deploy it to the public. In this exercise, you will deploy your code via GitHub Pages. You will need to make sure that your web application uses HTTPS (not HTTP) protocol. SSL (Secure Sockets Layer) and HTTPS guarantee that all data sent between a browser and a server are being encrypted, which adds a great layer of security for your users and their private and sensitive information.
+Now that your To Do list application is ready, you can deploy it to the public. In this exercise, you will deploy your code via GitHub Pages. You will need to make sure that your web application uses HTTPS (not HTTP) protocol. SSL (Secure Sockets Layer) and HTTPS guarantee that all data sent between a browser and a server are encrypted, which adds a great layer of security for your users and their private and sensitive information.
 
 *IMPORTANT NOTE: Read **all** instructions before you start this exercise.*
 
-*SECOND IMPORTANT NOTE: Even though this lesson is solo, you should already be in contact through Slack with your partner. Each Monday should start with a message on Slack to your coding partner. Remember to start each week with setting working agreements with your partner to improve your collaboration and to avoid conflict. [You can find the lesson here](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/establish-good-working-relationships.md). Bookmark it so you can use it at the start of each week. If you are experiencing difficulties with your partner, reach out to Student Success right away so we can help you. It's important that you have a good collaboration that results in learning. We always try to speak to all parties involved to resolve the conflict. In some cases, we will re-pair you with a new student (this is only possible in the beginning of the week).*
+*SECOND IMPORTANT NOTE: Even though this lesson is solo, you should already be in contact through Slack with your partner. Each Monday should start with a message on Slack to your coding partner. Remember to start each week by setting working agreements with your partner to improve your collaboration and avoid conflict. [You can find the lesson here](https://github.com/microverseinc/curriculum-professional-skills/blob/main/orientation/establish-good-working-relationships.md). Bookmark it so you can use it at the start of each week. If you are experiencing difficulties with your partner, reach out to Student Success right away so we can help you. It's important that you have a good collaboration that results in learning. We always try to speak to all parties involved to resolve the conflict. In some cases, we will re-pair you with a new student (this is only possible in the beginning of the week).*
 
 
 
@@ -18,9 +18,13 @@ Now that your To Do list application is ready, you can deploy it to the public. 
 
 - Commit and push all your work into the project's GitHub repository.
 - If you worked with branches, make sure you merge all your work into the main branch.
+- Make sure that in the `dist` directory on Github you have the latest version of your project.
+    - Run `npm run build` to update the `dist` if necessary.
 - Deploy your website using GitHub Pages (you are already familiar with this process), but this time pay attention to the extra step that will **ensure that your app uses HTTPS protocol**:
      - Scroll to the bottom of the **Pages** page and make sure the *"Enforce HTTPS"*  checkbox is selected.
-- Confirm the deployment. Your application will be live in few minutes. On the top of the **Pages** page you will find your project's URL.
+- Confirm the deployment. Your application will be live in a few minutes. On the top of the **Pages** page, you will find your project's URL.
+    - **NOTE: as GH pages are meant to deploy static pages you need to to the `dist` directory to see your app: https://<GH_username>.github.io/<GH_repo_name>/dist/.**
+    - As the point of this exercise is to learn about HTTPS with GitHub pages it is sufficient to stay with this setup. However, if you are interested in the deployment of the webpack-based app with GH pages in a more elegant way, check the information in the [Additional materials](#addditional_materials)
 - Make sure that your app URL uses SSL.
 - Update the README of your repository to include a link to the online version.
 
