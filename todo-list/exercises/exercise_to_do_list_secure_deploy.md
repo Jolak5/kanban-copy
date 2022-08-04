@@ -24,7 +24,7 @@ Now that your To Do list application is ready, you can deploy it to the public. 
      - Scroll to the bottom of the **Pages** page and make sure the *"Enforce HTTPS"*  checkbox is selected.
 - Confirm the deployment. Your application will be live in a few minutes. On the top of the **Pages** page, you will find your project's URL.
     - **NOTE: as GH pages are meant to deploy static pages you need to to the `dist` directory to see your app: https://<GH_username>.github.io/<GH_repo_name>/dist/.**
-    - As the point of this exercise is to learn about HTTPS with GitHub pages it is sufficient to stay with this setup. However, if you are interested in the deployment of the webpack-based app with GH pages in a more elegant way, check the information in the [Additional materials](#addditional_materials)
+    - As the point of this exercise is to learn about HTTPS with GitHub pages it is sufficient to stay with this setup. However, if you are interested in the deployment of the webpack-based app with GH pages in a more elegant way, check the information in the [Additional materials](#additional-materials) section.
 - Make sure that your app URL uses SSL.
 - Update the README of your repository to include a link to the online version.
 
@@ -37,6 +37,7 @@ Now go to your Student Dashboard and submit your exercise.
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 - Read about [why it's important to use SSL certificates](https://www.cloudflare.com/learning/ssl/why-use-https/).
 - Read about potential [problems with mixed content](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https) and how to solve them.
+- Curious about how to deploy webpack-based apps with GitHub pages in a more elegant way? Check the ["GitHub Pages Deploy & Domain" video](https://www.youtube.com/watch?v=SKXkC4SqtRk) (until 9:35 it explains how to deploy with the usage of [gh-pages package](https://github.com/tschaub/gh-pages), then it shows how to set up a custom domain).
 
 ------
 
