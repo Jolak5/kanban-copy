@@ -27,8 +27,9 @@ In this activity you will continue working on the *Leaderboard list* app, sendin
 
 - Read the [Leaderboard API documentation](https://www.notion.so/microverse/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3) to learn how to use this API.
 - Create a new game with the name of your choice by using the API.
-- Implement the "Refresh" button (receiving data from the API and parsing the JSON).
-- Implement the form "Submit" button (sending data to the API).
+    - Make sure that you saved the ID of your game that will be returned by API.
+- Implement the "Refresh" button that will get all scores for a game created by you from the API (receiving data from the API and parsing the JSON).
+- Implement the form "Submit" button that will save a score for a game created by you (sending data to the API).
 - Use `arrow functions` instead of the `function` keyword.
 - Use `async` and `await` JavaScript features to consume the API.
 - No styling is required.
