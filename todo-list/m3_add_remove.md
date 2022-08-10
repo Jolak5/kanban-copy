@@ -8,7 +8,7 @@
 ### Estimated time: 4h
 
 ## Description
-In this project, you will implement the CRUD (create, update, delete) methods. All the elements of the user interface will be fully functional and your application will be completed. 
+In this project, you will implement the CRUD (create, read, update, delete) methods. All the elements of the user interface will be fully functional and your application will be completed. 
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
