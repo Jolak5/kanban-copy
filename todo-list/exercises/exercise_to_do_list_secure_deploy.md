@@ -23,7 +23,7 @@ Now that your To Do list application is ready, you can deploy it to the public. 
 - Deploy your website using GitHub Pages (you are already familiar with this process), but this time pay attention to the extra step that will **ensure that your app uses HTTPS protocol**:
      - Scroll to the bottom of the **Pages** page and make sure the *"Enforce HTTPS"*  checkbox is selected.
 - Confirm the deployment. Your application will be live in a few minutes. On the top of the **Pages** page, you will find your project's URL.
-    - **NOTE: as GH pages are meant to deploy static pages you need to to the `dist` directory to see your app: https://<GH_username>.github.io/<GH_repo_name>/dist/.**
+    - **NOTE: as GH pages are meant to deploy static pages you need to go to the `dist` directory to see your app: https://<GH_username>.github.io/<GH_repo_name>/dist/.**
     - As the point of this exercise is to learn about HTTPS with GitHub pages it is sufficient to stay with this setup. However, if you are interested in the deployment of the webpack-based app with GH pages in a more elegant way, check the information in the [Additional materials](#additional-materials) section.
 - Make sure that your app URL uses SSL.
 - Update the README of your repository to include a link to the online version.
