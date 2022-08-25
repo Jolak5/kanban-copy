@@ -28,7 +28,7 @@ To learn more about APIs and REST, read these articles:
 
 ### How to consume an API
 
-There are several ways to *consume* an API, read [this aticle](../articles/how_to_consume_api.md) to learn some of them.
+There are several ways to *consume* an API, read [this article](../articles/how_to_consume_api.md) to learn some of them.
 
 ## Additional materials
 
