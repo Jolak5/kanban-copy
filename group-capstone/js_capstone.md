@@ -15,7 +15,7 @@
 - Send and receive data from an API.
 - Use API documentation.
 - Understand and use JSON.
-- Make JavaScript code synchronous.
+- Make JavaScript code asynchronous.
 - Perform a code review for a team member.
 
 ### Estimated time: 20.5h
