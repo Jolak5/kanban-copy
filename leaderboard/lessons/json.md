@@ -17,7 +17,13 @@ JSON (JavaScript Object Notation) is a standardized format used to send and rece
 
 ### Working with JSON
 
-JSON is not JavaScript. While it seems like a JavaScript object, it is plain text that merely uses JavaScript Object notation (syntax). Because of that, you have to convert JSON from plain text to JavaScript using the `JSON.parse()` method, and from objects to text using the `JSON.stringify()` method. To learn more about JSON, read the following guide from MDN:
+JSON is not JavaScript. While it seems like a JavaScript object, it is plain text that merely uses JavaScript Object notation (syntax). 
+Because of that:
+- if you need to convert JSON string to JavaScript object you need to use the `JSON.parse()` method
+- if you need to convert a JavaScript object to JSON string you need to use the `JSON.stringify()` method. 
+
+
+To learn more about JSON, read the following guide from MDN:
 
 - [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
