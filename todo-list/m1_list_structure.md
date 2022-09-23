@@ -47,6 +47,7 @@ Remind me about [the big picture of this project](./sneak_peek.md).
 
 ## Code review
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
+
 Read this [FAQ on Project Reviews](https://microverse.zendesk.com/hc/en-us/articles/9459775669267-Project-Reviews)
 
 ## Submit your project
