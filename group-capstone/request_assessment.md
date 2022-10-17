@@ -63,7 +63,7 @@ You have worked on your capstone project with your team. Then you recorded a vid
 
 - Go to your Student Dashboard, then click Actions → Request assessment.
 - To request the assessment you need to include the link to the GH repository with your project and a link to your video submission.
-- The status of this activity should change to `Pending review`.
+- The status of this activity should change to `Pending assessment`.
 - **It is important to request the evaluation on Friday, so your assessor can perform the assessment before Saturday’s deadline (the whole process can take up to 12 hours).**
 - *NOTE: each team member needs to request the assessment individually.*
 
