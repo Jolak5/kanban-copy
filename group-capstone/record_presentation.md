@@ -61,9 +61,9 @@ It’s time to prepare your presentation of the capstone project and the learnin
 
 [Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
 
-Now go to your Student Dashboard and submit your exercise.
+Now go to your Student Dashboard and submit your exercise. Paste the link to your video presentation.
 
-Paste the link to your video presentation.
+**Then, in the next activity, you will request your assessment!**
 
 ---
 
