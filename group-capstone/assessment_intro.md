@@ -14,7 +14,7 @@ In this lesson, you will check what project you will be able to build after mast
 
 ### Why is it important?
 
-In order to foster your learning process, you need to understand what your goal is. This goal is described with multiple objectives. Those objectives can guide you through all activities in this module, so you always understand why you are learning about specific things.
+In order to foster your learning process, you need to understand what your goal is. This goal is described with learning multiple objectives. Those objectives can guide you through all activities in this module, so you always understand why you are learning about specific things and what knowledge and skills we expect you to master.
 
 Thanks to that you have more ownership over your learning process and also more confidence in your progress! Besides, you can also get excited today about the things you’re about to build in a few weeks!
 
