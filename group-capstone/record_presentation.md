@@ -22,33 +22,36 @@ It’s time to prepare your presentation of the capstone project and the learnin
 
 - The video should last ~30min. It cannot be longer than 40 min (your assessor will watch your video only until the maximum time limit).
 - The video should always show your face, even at the moments when you are sharing your screen.
-- In the video you should provide evidence of mastering the learning objectives from the [assessment rubric](https://www.notion.so/230916623f554b4dbe43c688c0879010).
-    - **Note: you should have mastered all of the learning objectives but in the video you will be asked to present the randomly selected ones.**
-    - You should have received an email with randomly selected learning objectives today. If that is not the case - reach out to the Student Success team.
-- Your presentation should follow this outline:
+- In the video, you should provide evidence of mastering the learning objectives from the [assessment rubric](https://www.notion.so/230916623f554b4dbe43c688c0879010).
+    - **Note: you should have mastered all of the learning objectives but in the video, you will be asked to present the randomly selected ones.**
+    - You should have received an email with a **presentation outline with randomly selected questions** today. If that is not the case - reach out to the Student Success team.
+- Below you can see the **general outline** of the presentation:
     1. Introduction (3 min): 
         1. Present yourself.
         2. Present the goal of the project - what did you build and why?
         3. Present project details:
             1. Show GitHub repo.
             2. Describe your team and tell us which GH profile is yours!
-    2. Final product demo (7 min):
+    2. Final product demo (5 min):
         1. Give the context: describe the requirements.
-        2. Show how your app looks and works in order to meet the requirements.
+             - For each requirement: show how your app looks and works in order to meet the specific requirement.
         3. Explain what a single page app is and prove that you have built one with JavaScript.
-    3. JavaScript knowledge (10 min):
+    3. Introduction of your codebase (2 min):
+        1. Present briefly the directories and files structure.
+        2. Explain shortly what each file/directory is responsible for.
+    5. JavaScript knowledge (10 min):
         1. Show pieces of code that prove your JavaScript-related skills.
         2. You will need to answer 5 randomly selected questions.
-    4. Code review skills (5 min):
+    6. Code review skills (5 min):
         1. Present a pull request that was reviewed by you.
-    5. Answer the additional questions (5 min):
+    7. Answer the additional questions (5 min):
         1. Show that you have mastered the soft skills.
         2. You will need to answer 2 randomly selected questions.
 
 ### How to record your presentation?
 
 1. You should already be familiar with [the assessment score description](https://github.com/microverseinc/curriculum-javascript/blob/main/group-capstone/articles/assessment_score.md) and [rubric](https://www.notion.so/230916623f554b4dbe43c688c0879010) . Read them once again in order to remember what you are supposed to show in your video.
-2. Prepare the outline of your presentation. Use the outline suggested in requirements as a starting point. Add as many details as you wish - the outline should help you to record the video and to remember about everything. Remember that the point is that you can show off all learning objectives.
+2. Prepare the outline of your presentation. Use the **outline that you have received via e-mail today** as a starting point. Add as many details as you wish - the outline should help you to record the video and to remember about everything. Remember that the point is that you can show off your knowledge according to the rubric.
 3. Record the video
     - You can use Zoom, Loom, or a service of your choice.
     - You can record specific fragments and then join them into one video.
