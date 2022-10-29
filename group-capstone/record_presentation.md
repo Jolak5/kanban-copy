@@ -26,27 +26,29 @@ It’s time to prepare your presentation of the capstone project and the learnin
     - **Note: you should have mastered all of the learning objectives but in the video, you will be asked to present the randomly selected ones.**
     - You should have received an email with a **presentation outline with randomly selected questions** today. If that is not the case - reach out to the Student Success team.
 - Below you can see the **general outline** of the presentation:
-    1. Introduction (3 min): 
-        1. Present yourself.
-        2. Present the goal of the project - what did you build and why?
-        3. Present project details:
-            1. Show GitHub repo.
-            2. Describe your team and tell us which GH profile is yours!
-    2. Final product demo (5 min):
-        1. Give the context: describe the requirements.
-             - For each requirement: show how your app looks and works in order to meet the specific requirement.
-        3. Explain what a single page app is and prove that you have built one with JavaScript.
-    3. Introduction of your codebase (2 min):
-        1. Present briefly the directories and files structure.
-        2. Explain shortly what each file/directory is responsible for.
-    5. JavaScript knowledge (10 min):
-        1. Show pieces of code that prove your JavaScript-related skills.
-        2. You will need to answer 5 randomly selected questions.
-    6. Code review skills (5 min):
-        1. Present a pull request that was reviewed by you.
-    7. Answer the additional questions (5 min):
-        1. Show that you have mastered the soft skills.
-        2. You will need to answer 2 randomly selected questions.
+
+
+1. Introduction (3 min): 
+    1. Present yourself.
+    2. Present the goal of the project - what did you build and why?
+    3. Present project details:
+        1. Show GitHub repo.
+        2. Describe your team and tell us which GH profile is yours!
+2. Final product demo (5 min):
+    1. Give the context: describe the requirements.
+         - For each requirement: show how your app looks and works in order to meet the specific requirement.
+    3. Explain what a single page app is and prove that you have built one with JavaScript.
+3. Introduction of your codebase (2 min):
+    1. Present briefly the directories and files structure.
+    2. Explain shortly what each file/directory is responsible for.
+5. JavaScript knowledge (10 min):
+    1. Show pieces of code that prove your JavaScript-related skills.
+    2. You will need to answer 5 randomly selected questions.
+6. Code review skills (5 min):
+    1. Present a pull request that was reviewed by you.
+7. Answer the additional questions (5 min):
+    1. Show that you have mastered the soft skills.
+    2. You will need to answer 2 randomly selected questions.
 
 ### How to record your presentation?
 
