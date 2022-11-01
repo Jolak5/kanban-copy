@@ -48,7 +48,7 @@ In this project, you will build a basic website that allows users to add/remove 
 **TIP:** If you separated the code in multiple files and you you have the following issues with the linter: complaining about having multiple classes at the same file, or an unused variables, disable the linter check for that rule in the file with a `/* eslint-disable rule-you-want-to-disable */`
 .
 
-Check the [ESLint documentation](https://eslint.org/docs/2.13.1/user-guide/configuring#disabling-rules-with-inline-comments) for more details on how.
+Check the [ESLint documentation](https://eslint.org/docs/latest/user-guide/configuring/rules#disabling-rules) for more details on how.
 
 ### Need a big picture?
 
