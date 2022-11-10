@@ -20,7 +20,7 @@ It’s time to prepare your presentation of the capstone project and the learnin
 
 ### Requirements
 
-- The video should last ~30min. It cannot be longer than 40 min (your assessor will watch your video only until the maximum time limit).
+- The video should last ~30min. It cannot be longer than 35 min (your assessor will watch your video only until the maximum time limit).
 - The video should always show your face, even at the moments when you are sharing your screen.
 - In the video, you should provide evidence of mastering the learning objectives from the [assessment rubric](https://www.notion.so/230916623f554b4dbe43c688c0879010).
     - **Note: you should have mastered all of the learning objectives but in the video, you will be asked to present the randomly selected ones.**
