@@ -57,7 +57,7 @@ It’s time to prepare your presentation of the capstone project and the learnin
 3. Record the video
     - You can use Zoom, Loom, or a service of your choice.
     - You can record specific fragments and then join them into one video.
-4. Double-check that your video takes ~30min (and not longer than 40 min).
+4. Double-check that your video takes ~30min (and not longer than 35 min).
 5. Make sure that your video is accessible online.
     - You can upload it to YouTube, Google Drive, Loom storage, etc.
 6. Copy the link to your video. It will be needed for this exercise submission and also for requesting an assessment of this module.
