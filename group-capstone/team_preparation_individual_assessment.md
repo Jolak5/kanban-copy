@@ -80,7 +80,7 @@ The full description of the score can be found in [this article](https://github.
 
 In order to prepare for the assessment, you will need to follow this [rubric which includes **all possible questions that can be asked.**](https://www.notion.so/JavaScript-group-capstone-rubric-230916623f554b4dbe43c688c0879010)
 
-The same rubric will be used to assess your submission. You will get the assessment from 3 independent Code Reviewers. Based on their feedback we will calculate your score.
+The same rubric will be used to assess your submission. You will get the assessment from 2 independent Code Reviewers. Based on their feedback we will calculate your score.
 
 *Take a look at it now and discuss it with your group.*
 
