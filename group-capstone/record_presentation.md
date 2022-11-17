@@ -42,7 +42,7 @@ It’s time to prepare your presentation of the capstone project and the learnin
     1. Present briefly the directories and files structure.
     2. Explain shortly what each file/directory is responsible for.
 5. JavaScript knowledge (10 min):
-    1. Show pieces of code that prove your JavaScript-related skills.
+    1. Show pieces of code that prove your JavaScript-related skills **(NOTE: you need to present a code written by you)**.
     2. You will need to answer 5 randomly selected questions.
 6. Code review skills (5 min):
     1. Present a pull request that was reviewed by you.
