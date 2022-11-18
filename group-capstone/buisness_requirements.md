@@ -194,6 +194,8 @@ You will give and receive code reviews with your teammates. Each task (i.e. each
 
 Once the entire project is ready, one of your team members will request a code review on behalf of your group. For both processes follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/code_review_flow_group_projects.md).
 
+IMPORTANT NOTE: In this project, code reviews are not the final evaluation of your project. Their purpose is to help you to improve your project before you ask for the assessment. You can use up to 2 code reviews to ensure that your project is ready for the presentation. Requesting a code review is optional.
+
 ## Submit your project
 
 You can submit your project at any point of the code review process. You do not need to wait for the code reviewer's approval. [Read this FAQ for a reminder on how to submit your project](https://microverse.zendesk.com/hc/en-us/articles/360061344234).
@@ -204,7 +206,9 @@ Now go to your Student Dashboard and submit your project.
 
 The project that you build as a team will be used in the video presentation that **each of the team members** needs to record.
 
-In the presentation, you will need to show us the evidence that you have mastered a set of random [crucial learning objectives](https://www.notion.so/230916623f554b4dbe43c688c0879010). ****You will need the pieces of code written by you, a code review performed by you, and your knowledge about specific concepts.
+In the presentation, you will need to show us the evidence that you have mastered a set of random [crucial learning objectives](https://www.notion.so/230916623f554b4dbe43c688c0879010). 
+
+****You will need the pieces of code written by you, a code review performed by you, and your knowledge about specific concepts.****
 
 You will be assessed by 3 independent assessors according to:
 
