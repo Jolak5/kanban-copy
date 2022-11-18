@@ -69,7 +69,7 @@ You have worked on your capstone project with your team. Then you recorded a vid
 
 ### Your final score
 
-- Once we get the review from 3 assessors, the status of this activity will change to either `Complete` or `Incomplete` and you will be able to go back to your score breakdown by going to Student Dashboard → View score.
+- Once we get the review from 2 assessors, the status of this activity will change to either `Complete` or `Incomplete` and you will be able to go back to your score breakdown by going to Student Dashboard → View score.
 - *The full description of the final score and partial scores can be found in [this article](https://github.com/microverseinc/curriculum-javascript/blob/main/group-capstone/articles/assessment_score.md).*
 
 ---
