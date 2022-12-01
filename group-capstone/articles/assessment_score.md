@@ -9,6 +9,8 @@ Your assessment score reflects how well you mastered the crucial learning object
 
 The maximum score is 72 points. It consists of 5 partial scores described below. In order to pass the assessment you need to get at least 70% (min 50 points) and you need to get >1 point for all of the assessed learning objectives.
 
+*As this is the first presentation you need to create for the assessment, we will be a bit more forgiving if you forget about a couple of questions.
+
 ## Partial scores
 
 ### Presentation skills (max 12 points)
