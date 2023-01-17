@@ -27,7 +27,7 @@ to get a general idea of this concept.
 
 
 - `npm` is associated with node.js and it might be confusing. Therefore first read the following fragment [Why Do You Need Node for a Front End Project?](https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/#why-do-you-need-node-for-a-front-end-project)
-- Then, read ["What is npm?" by nodejs.org](https://nodejs.org/en/knowledge/getting-started/npm/what-is-npm/) and ["What is npm?" by w3schools](https://www.w3schools.com/whatis/whatis_npm.asp)
+- Then, read ["What is npm?"](https://docs.npmjs.com/about-npm) and ["What is npm?" by w3schools](https://www.w3schools.com/whatis/whatis_npm.asp)
 - npm is installed with Node.js. This means that you have to install Node.js to get npm installed on your computer.
     - [Download it](https://nodejs.org/en/download/) 
     - Verify installation
