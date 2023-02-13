@@ -12,9 +12,8 @@
 
 ## Description
 
-In this project, you will restructure your _Awesome books_ app code. The goal is to make it more organized by using modules.
-You will also practice the ES6 syntax that you have learned.
-
+In this project, you will restructure your _Awesome books_ app code. The goal is to **make it more organized by using modules**.
+You will also **practice the ES6 syntax** that you have learned.
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
@@ -43,23 +42,23 @@ You will also practice the ES6 syntax that you have learned.
   - Create a directory called `modules`.
 - Re-create your _Awesome books_ app following the rules:
   - Use ES6 syntax.
-  - Divide your code into modules. Save each module in a separate file in the `modules` dir. Import modules in the `index.js` file. For this exercise - the more modules the better!
+  - Divide your code into **modules**. 
+    - Create a separate file for each module in the `modules` directory. 
+    - Import modules into the `index.js` file. _(Tip: the more modules the better!)_
   - Keep all funcionalities of the app without errors.
-  - Refactor your methods and functions to arrow functions.
-  - Use let and const in a correct way.
+  - Refactor your functions to **arrow functions**.
+  - Use `let` and `const` in the correct way.
 
- 
-- Display the current date below the navigation bar. 
+- Display the **current date below the navigation bar**. 
   - For this requirement you should use a library [Luxon](https://moment.github.io/luxon/#/install?id=es6)
-  - Download the script and save it to your project. 
-  - Import it as a module.
+  - Download the library into your project using `npm`. 
+  - Import it as a **module**.
   - See the article [Get the current date and time](https://moment.github.io/luxon/#/tour?id=get-the-current-date-and-time). Your task here is to use a new tool effectively with little externally curated support. Exactly as you will do in your future job.
 
 
 ## Work and submission mode
 
-- You should submit this activity **individually.**
-
+- You should submit this activity **individually**.
 
 ## Code review
 
@@ -69,7 +68,9 @@ Follow [these steps](https://github.com/microverseinc/curriculum-transversal-ski
 ## Submit your project
 
 After the final approval from a code reviewer, you need to submit your project.
-[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
+
+[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234).
+
 Now go to your Student Dashboard and submit your project.
 
 ------
