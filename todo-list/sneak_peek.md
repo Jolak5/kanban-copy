@@ -13,7 +13,7 @@ You will build a simple website that allows for doing that, and you will do it u
 
 ### How to build the "To-do list" website?
 
-You will build a very simple yet powerful to-do list. It will be inspired by the minimalist website. That website is already offline but you can still play with thanks to [web.archive.org](https://web.archive.org/web/20180320194056/http://www.getminimalist.com:80/).
+You will build a very simple yet powerful to-do list. It will be inspired by the minimalist website. That website is already offline but you can still play with it thanks to [web.archive.org](https://web.archive.org/web/20180320194056/http://www.getminimalist.com:80/).
 
 Your task is to build a website that displays a list that looks and behaves like the part of minimalist project capture in the video below.
 
